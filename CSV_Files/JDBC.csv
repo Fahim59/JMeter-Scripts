@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1673924761821,2927,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-972,text,false,,80,0,1000,1000,null,0,0,2927
+1673924761279,3469,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-430,text,false,,80,0,1000,1000,null,0,0,3469
+1673924761330,3420,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-476,text,false,,80,0,1000,1000,null,0,0,3420
+1673924761332,3416,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-483,text,false,,80,0,1000,1000,null,0,0,3416
+1673924761514,3236,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-666,text,false,,80,0,1000,1000,null,0,0,3236
+1673924761567,3199,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-693,text,false,,80,0,995,995,null,0,0,3199
+1673924761566,3202,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-685,text,false,,80,0,994,994,null,0,0,3202
+1673924761523,3248,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-670,text,false,,80,0,993,993,null,0,0,3248
+1673924761564,3209,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-673,text,false,,80,0,992,992,null,0,0,3209
+1673924761566,3220,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-686,text,false,,80,0,991,991,null,0,0,3220
+1673924761712,3159,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-863,text,false,,80,0,990,990,null,0,0,3159
+1673924761608,3267,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-746,text,false,,80,0,989,989,null,0,0,3267
+1673924761575,3300,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-715,text,false,,80,0,989,989,null,0,0,3300
+1673924761328,3558,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-472,text,false,,80,0,987,987,null,0,0,3558
+1673924761414,3472,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-506,text,false,,80,0,987,987,null,0,0,3472
+1673924761709,3177,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-858,text,false,,80,0,987,987,null,0,0,3177
+1673924761568,3318,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-713,text,false,,80,0,987,987,null,0,0,3318
+1673924761819,3078,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-939,text,false,,80,0,983,983,null,0,0,3078
+1673924761633,3283,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-782,text,false,,80,0,982,982,null,0,0,3283
+1673924761829,3088,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-979,text,false,,80,0,981,981,null,0,0,3088
+1673924761830,3101,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-980,text,false,,80,0,980,980,null,0,0,3101
+1673924761408,3523,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-531,text,false,,80,0,980,980,null,0,0,3523
+1673924761341,3590,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-485,text,false,,80,0,980,980,null,0,0,3590
+1673924761987,2959,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-953,text,false,,80,0,977,977,null,0,0,2959
+1673924761567,3379,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-702,text,false,,80,0,977,977,null,0,0,3379
+1673924761987,2959,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-949,text,false,,80,0,977,977,null,0,0,2959
+1673924761568,3393,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-710,text,false,,80,0,974,974,null,0,0,3393
+1673924761031,3931,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-183,text,false,,36,0,973,973,null,0,0,3931
+1673924761623,3360,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-774,text,false,,80,0,972,972,null,0,0,3360
+1673924761619,3364,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-739,text,false,,80,0,972,972,null,0,0,3364
+1673924761492,3491,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-636,text,false,,80,0,972,972,null,0,0,3491
+1673924761397,3597,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-544,text,false,,80,0,969,969,null,0,0,3597
+1673924761740,3260,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-818,text,false,,80,0,968,968,null,0,0,3260
+1673924761000,4000,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-150,text,false,,80,0,968,968,null,0,0,4000
+1673924761775,3225,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-914,text,false,,80,0,968,968,null,0,0,3225
+1673924761688,3313,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-793,text,false,,80,0,966,966,null,0,0,3313
+1673924761740,3261,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-813,text,false,,80,0,966,966,null,0,0,3261
+1673924761742,3260,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-810,text,false,,80,0,964,964,null,0,0,3260
+1673924761738,3341,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-830,text,false,,80,0,962,962,null,0,0,3341
+1673924761867,3213,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-938,text,false,,80,0,961,961,null,0,0,3213
+1673924760868,4220,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-20,text,false,,36,0,960,960,null,0,0,4220
+1673924761081,4009,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-232,text,false,,80,0,959,959,null,0,0,4009
+1673924761491,3602,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-640,text,false,,80,0,958,958,null,0,0,3602
+1673924761743,3359,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-806,text,false,,80,0,957,957,null,0,0,3359
+1673924761739,3363,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-822,text,false,,80,0,956,956,null,0,0,3363
+1673924761255,3850,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-407,text,false,,80,0,955,955,null,0,0,3850
+1673924761303,3803,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-455,text,false,,80,0,954,954,null,0,0,3803
+1673924761279,3833,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-431,text,false,,80,0,953,953,null,0,0,3833
+1673924761414,3702,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-505,text,false,,80,0,952,952,null,0,0,3702
+1673924761406,3718,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-536,text,false,,80,0,951,951,null,0,0,3718
+1673924760910,4219,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-61,text,false,,80,0,950,950,null,0,0,4219
+1673924761187,3966,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-338,text,false,,80,0,949,949,null,0,0,3966
+1673924761102,4051,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-253,text,false,,80,0,949,949,null,0,0,4051
+1673924760970,4329,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-121,text,false,,80,0,947,947,null,0,0,4329
+1673924761754,3568,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-797,text,false,,80,0,946,946,null,0,0,3568
+1673924761397,3926,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-543,text,false,,80,0,945,945,null,0,0,3926
+1673924761639,3684,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-771,text,false,,80,0,945,945,null,0,0,3684
+1673924761057,4283,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-208,text,false,,80,0,943,943,null,0,0,4283
+1673924760925,4416,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-76,text,false,,80,0,943,943,null,0,0,4415
+1673924761510,3831,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-615,text,false,,80,0,943,943,null,0,0,3831
+1673924761821,3520,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-968,text,false,,80,0,940,940,null,0,0,3520
+1673924761400,3941,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-534,text,false,,80,0,940,940,null,0,0,3941
+1673924761821,3525,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-971,text,false,,80,0,938,938,null,0,0,3525
+1673924761176,4181,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-321,text,false,,80,0,937,937,null,0,0,4181
+1673924761401,3956,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-549,text,false,,80,0,937,937,null,0,0,3956
+1673924761733,3624,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-883,text,false,,80,0,937,937,null,0,0,3624
+1673924761411,3948,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-548,text,false,,80,0,934,934,null,0,0,3948
+1673924761815,3544,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-900,text,false,,80,0,934,934,null,0,0,3544
+1673924761814,3545,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-895,text,false,,80,0,934,934,null,0,0,3545
+1673924761417,3957,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-496,text,false,,80,0,931,931,null,0,0,3957
+1673924761397,3977,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-540,text,false,,80,0,931,931,null,0,0,3977
+1673924761270,4114,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-422,text,false,,80,0,929,929,null,0,0,4114
+1673924760989,4395,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-139,text,false,,36,0,928,928,null,0,0,4395
+1673924760928,4461,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-78,text,false,,80,0,927,927,null,0,0,4461
+1673924760949,4445,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-100,text,false,,36,0,926,926,null,0,0,4445
+1673924761063,4335,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-212,text,false,,80,0,925,925,null,0,0,4335
+1673924760882,4549,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-33,text,false,,80,0,924,924,null,0,0,4549
+1673924761410,4024,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-516,text,false,,80,0,923,923,null,0,0,4024
+1673924761004,4444,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-156,text,false,,80,0,922,922,null,0,0,4444
+1673924760915,4536,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-64,text,false,,80,0,921,921,null,0,0,4536
+1673924761520,3935,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-579,text,false,,80,0,920,920,null,0,0,3935
+1673924761410,4051,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-523,text,false,,80,0,919,919,null,0,0,4051
+1673924761415,4049,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-504,text,false,,80,0,918,918,null,0,0,4049
+1673924761415,4071,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-502,text,false,,80,0,918,918,null,0,0,4071
+1673924761564,3908,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-593,text,false,,80,0,918,918,null,0,0,3908
+1673924761608,3864,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-749,text,false,,80,0,918,918,null,0,0,3864
+1673924761565,3904,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-678,text,false,,80,0,918,918,null,0,0,3904
+1673924761412,4057,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-509,text,false,,80,0,918,918,null,0,0,4057
+1673924761029,4439,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-181,text,false,,80,0,918,918,null,0,0,4439
+1673924761341,4195,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-492,text,false,,80,0,911,911,null,0,0,4195
+1673924761414,4202,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-507,text,false,,80,0,910,910,null,0,0,4202
+1673924760954,4694,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-105,text,false,,80,0,909,909,null,0,0,4694
+1673924761005,4644,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-157,text,false,,80,0,909,909,null,0,0,4644
+1673924760938,4712,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-89,text,false,,80,0,907,907,null,0,0,4712
+1673924760899,4751,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-52,text,false,,80,0,906,906,null,0,0,4751
+1673924760977,4675,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-128,text,false,,80,0,905,905,null,0,0,4675
+1673924761342,4310,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-473,text,false,,80,0,905,905,null,0,0,4310
+1673924761011,4642,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-163,text,false,,80,0,903,903,null,0,0,4642
+1673924760895,4758,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-47,text,false,,80,0,902,902,null,0,0,4758
+1673924761411,4244,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-551,text,false,,80,0,901,901,null,0,0,4244
+1673924761568,4087,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-705,text,false,,80,0,900,900,null,0,0,4087
+1673924761432,4224,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-577,text,false,,80,0,899,899,null,0,0,4224
+1673924761647,4012,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-776,text,false,,80,0,898,898,null,0,0,4012
+1673924761408,4253,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-532,text,false,,80,0,897,897,null,0,0,4253
+1673924761343,4319,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-465,text,false,,80,0,896,896,null,0,0,4319
+1673924761688,3990,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-790,text,false,,80,0,895,895,null,0,0,3990
+1673924761398,4287,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-537,text,false,,80,0,894,894,null,0,0,4287
+1673924761411,4278,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-511,text,false,,80,0,893,893,null,0,0,4278
+1673924761417,4273,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-499,text,false,,80,0,892,892,null,0,0,4273
+1673924761410,4290,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-527,text,false,,80,0,891,891,null,0,0,4290
+1673924761402,4299,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-539,text,false,,80,0,890,890,null,0,0,4299
+1673924761410,4291,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-520,text,false,,80,0,889,889,null,0,0,4291
+1673924761341,4361,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-491,text,false,,80,0,888,888,null,0,0,4361
+1673924761835,3877,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-984,text,false,,80,0,887,887,null,0,0,3877
+1673924761846,3866,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-995,text,false,,80,0,887,887,null,0,0,3866
+1673924761684,4029,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-835,text,false,,80,0,886,886,null,0,0,4029
+1673924760971,4742,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-122,text,false,,80,0,884,884,null,0,0,4742
+1673924760954,4763,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-104,text,false,,80,0,883,883,null,0,0,4763
+1673924761341,4376,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-482,text,false,,80,0,882,882,null,0,0,4376
+1673924761122,4596,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-273,text,false,,80,0,881,881,null,0,0,4596
+1673924761333,4389,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-484,text,false,,80,0,880,880,null,0,0,4389
+1673924761341,4387,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-486,text,false,,80,0,879,879,null,0,0,4387
+1673924761524,4212,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-568,text,false,,80,0,878,878,null,0,0,4212
+1673924761134,4629,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-285,text,false,,80,0,877,877,null,0,0,4629
+1673924761429,4376,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-569,text,false,,80,0,876,876,null,0,0,4376
+1673924761275,4533,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-427,text,false,,80,0,875,875,null,0,0,4533
+1673924761492,4318,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-641,text,false,,80,0,874,874,null,0,0,4318
+1673924761754,4056,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-897,text,false,,80,0,873,873,null,0,0,4056
+1673924761128,4683,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-278,text,false,,80,0,872,872,null,0,0,4683
+1673924761115,4696,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-266,text,false,,80,0,872,872,null,0,0,4696
+1673924761080,4732,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-230,text,false,,80,0,870,870,null,0,0,4732
+1673924761567,4250,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-701,text,false,,80,0,869,869,null,0,0,4250
+1673924761167,4682,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-318,text,false,,80,0,868,868,null,0,0,4682
+1673924761234,4643,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-386,text,false,,80,0,867,867,null,0,0,4643
+1673924761299,4579,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-450,text,false,,80,0,866,866,null,0,0,4579
+1673924761040,4957,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-191,text,false,,80,0,865,865,null,0,0,4957
+1673924761233,4764,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-385,text,false,,36,0,865,865,null,0,0,4764
+1673924761149,5014,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-299,text,false,,80,0,863,863,null,0,0,5014
+1673924761414,4771,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-562,text,false,,80,0,862,862,null,0,0,4771
+1673924761575,4740,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-720,text,false,,80,0,861,861,null,0,0,4740
+1673924761742,4608,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-843,text,false,,80,0,860,860,null,0,0,4608
+1673924761742,4609,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-844,text,false,,80,0,860,860,null,0,0,4609
+1673924760984,5367,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-136,text,false,,80,0,858,858,null,0,0,5367
+1673924761397,5036,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-545,text,false,,80,0,857,857,null,0,0,5036
+1673924761523,5002,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-669,text,false,,80,0,856,856,null,0,0,5002
+1673924761289,5236,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-440,text,false,,80,0,856,856,null,0,0,5236
+1673924761639,4886,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-768,text,false,,80,0,854,854,null,0,0,4886
+1673924761042,5501,Select Statement,200,OK,RDCD 1-194,text,true,,134,0,853,853,null,5499,0,5357
+1673924761743,4858,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-805,text,false,,80,0,852,852,null,0,0,4858
+1673924761492,5214,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-618,text,false,,80,0,851,851,null,0,0,5214
+1673924761720,4996,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-869,text,false,,80,0,850,850,null,0,0,4996
+1673924761841,4876,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-988,text,false,,80,0,850,850,null,0,0,4876
+1673924761407,5367,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-535,text,false,,80,0,848,848,null,0,0,5367
+1673924760878,5895,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-31,text,false,,80,0,847,847,null,0,0,5895
+1673924761869,4972,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-945,text,false,,80,0,846,846,null,0,0,4972
+1673924761008,5852,Select Statement,200,OK,RDCD 1-160,text,true,,134,0,845,845,null,5851,0,5684
+1673924760909,5952,Select Statement,200,OK,RDCD 1-60,text,true,,134,0,844,844,null,5951,0,5784
+1673924760995,5895,Select Statement,200,OK,RDCD 1-146,text,true,,134,0,843,843,null,5894,0,5726
+1673924760994,5909,Select Statement,200,OK,RDCD 1-144,text,true,,134,0,842,842,null,5909,0,5753
+1673924761492,5700,Select Statement,200,OK,RDCD 1-632,text,true,,134,0,841,841,null,5700,0,5689
+1673924760973,6237,Select Statement,200,OK,RDCD 1-124,text,true,,134,0,840,840,null,6237,0,6219
+1673924761398,5814,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-538,text,false,,80,0,839,839,null,0,0,5814
+1673924761015,6258,Select Statement,200,OK,RDCD 1-167,text,true,,134,0,838,838,null,6258,0,6120
+1673924761274,6027,Select Statement,200,OK,RDCD 1-426,text,true,,134,0,837,837,null,6026,0,5944
+1673924760937,6393,Select Statement,200,OK,RDCD 1-87,text,true,,134,0,836,836,null,6392,0,6283
+1673924761003,6328,Select Statement,200,OK,RDCD 1-155,text,true,,134,0,835,835,null,6328,0,6216
+1673924761533,5907,Select Statement,200,OK,RDCD 1-664,text,true,,134,0,834,834,null,5907,0,5772
+1673924761755,5754,Select Statement,200,OK,RDCD 1-905,text,true,,134,0,833,833,null,5754,0,5604
+1673924760957,6697,Select Statement,200,OK,RDCD 1-108,text,true,,134,0,832,832,null,6697,0,6652
+1673924761104,6550,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-255,text,false,,80,0,831,831,null,0,0,6550
+1673924761819,5842,Select Statement,200,OK,RDCD 1-947,text,true,,134,0,830,830,null,5842,0,5790
+1673924760859,6845,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-10,text,false,,80,0,829,829,null,0,0,6845
+1673924761712,6007,Select Statement,200,OK,RDCD 1-859,text,true,,134,0,828,828,null,6006,0,5786
+1673924761051,6694,Select Statement,200,OK,RDCD 1-202,text,true,,134,0,827,827,null,6693,0,6417
+1673924761151,6604,Select Statement,200,OK,RDCD 1-302,text,true,,134,0,826,826,null,6604,0,6316
+1673924761087,6716,Select Statement,200,OK,RDCD 1-238,text,true,,134,0,825,825,null,6716,0,6702
+1673924760953,6855,Select Statement,200,OK,RDCD 1-103,text,true,,134,0,824,824,null,6855,0,6464
+1673924760969,6871,Select Statement,200,OK,RDCD 1-120,text,true,,134,0,823,823,null,6870,0,6826
+1673924760932,6947,Select Statement,200,OK,RDCD 1-83,text,true,,134,0,822,822,null,6947,0,6825
+1673924761504,6381,Select Statement,200,OK,RDCD 1-649,text,true,,134,0,821,821,null,6381,0,6306
+1673924760964,6952,Select Statement,200,OK,RDCD 1-115,text,true,,134,0,820,820,null,6951,0,6861
+1673924761717,6204,Select Statement,200,OK,RDCD 1-866,text,true,,134,0,819,819,null,6203,0,5987
+1673924761058,6866,Select Statement,200,OK,RDCD 1-209,text,true,,134,0,818,818,null,6865,0,6106
+1673924761022,6929,Select Statement,200,OK,RDCD 1-173,text,true,,134,0,817,817,null,6929,0,6665
+1673924761000,6961,Select Statement,200,OK,RDCD 1-151,text,true,,134,0,816,816,null,6961,0,6851
+1673924761717,6252,Select Statement,200,OK,RDCD 1-732,text,true,,134,0,815,815,null,6252,0,5181
+1673924761201,6797,Select Statement,200,OK,RDCD 1-352,text,true,,134,0,814,814,null,6797,0,6453
+1673924761523,6521,Select Statement,200,OK,RDCD 1-602,text,true,,134,0,813,813,null,6520,0,6346
+1673924761984,6119,Select Statement,200,OK,RDCD 1-986,text,true,,134,0,812,812,null,6119,0,5919
+1673924760917,7201,Select Statement,200,OK,RDCD 1-68,text,true,,134,0,811,811,null,7201,0,7014
+1673924761504,6639,Select Statement,200,OK,RDCD 1-650,text,true,,134,0,810,810,null,6639,0,6479
+1673924760858,7284,Select Statement,200,OK,RDCD 1-9,text,true,,134,0,809,809,null,7284,0,6531
+1673924761191,6996,Select Statement,200,OK,RDCD 1-341,text,true,,134,0,808,808,null,6996,0,6865
+1673924760961,7227,Select Statement,200,OK,RDCD 1-113,text,true,,134,0,807,807,null,7227,0,7109
+1673924761720,6469,Select Statement,200,OK,RDCD 1-870,text,true,,134,0,806,806,null,6468,0,6356
+1673924761037,7152,Select Statement,200,OK,RDCD 1-190,text,true,,134,0,805,805,null,7152,0,7041
+1673924761197,7051,Select Statement,200,OK,RDCD 1-348,text,true,,134,0,804,804,null,7051,0,6918
+1673924761816,6501,Select Statement,200,OK,RDCD 1-915,text,true,,134,0,803,803,null,6501,0,6333
+1673924761192,7125,Select Statement,200,OK,RDCD 1-343,text,true,,134,0,802,802,null,7125,0,6957
+1673924761567,6766,Select Statement,200,OK,RDCD 1-694,text,true,,134,0,801,801,null,6766,0,6592
+1673924761725,6612,Select Statement,200,OK,RDCD 1-876,text,true,,134,0,800,800,null,6612,0,6442
+1673924761047,7299,Select Statement,200,OK,RDCD 1-198,text,true,,134,0,799,799,null,7299,0,7156
+1673924761261,7111,Select Statement,200,OK,RDCD 1-412,text,true,,134,0,798,798,null,7110,0,6987
+1673924760983,7391,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-135,text,false,,80,0,797,797,null,0,0,7391
+1673924761514,6909,Select Statement,200,OK,RDCD 1-665,text,true,,134,0,796,796,null,6909,0,6226
+1673924761311,7119,Select Statement,200,OK,RDCD 1-462,text,true,,134,0,795,795,null,7119,0,6994
+1673924761064,7381,Select Statement,200,OK,RDCD 1-215,text,true,,134,0,794,794,null,7381,0,7264
+1673924761185,7267,Select Statement,200,OK,RDCD 1-335,text,true,,134,0,793,793,null,7267,0,7143
+1673924761661,6793,Select Statement,200,OK,RDCD 1-804,text,true,,134,0,792,792,null,6793,0,6666
+1673924761607,6867,Select Statement,200,OK,RDCD 1-755,text,true,,134,0,791,791,null,6867,0,6731
+1673924760904,7578,Select Statement,200,OK,RDCD 1-55,text,true,,134,0,790,790,null,7578,0,7448
+1673924760905,7579,Select Statement,200,OK,RDCD 1-57,text,true,,134,0,789,789,null,7579,0,7440
+1673924761161,7367,Select Statement,200,OK,RDCD 1-312,text,true,,134,0,788,788,null,7367,0,7247
+1673924761232,7296,Select Statement,200,OK,RDCD 1-383,text,true,,134,0,788,788,null,7296,0,7176
+1673924761743,6835,Select Statement,200,OK,RDCD 1-840,text,true,,134,0,786,786,null,6835,0,6739
+1673924761341,7238,Select Statement,200,OK,RDCD 1-487,text,true,,134,0,785,785,null,7238,0,7141
+1673924761105,7487,Select Statement,200,OK,RDCD 1-256,text,true,,134,0,784,784,null,7487,0,6895
+1673924761019,7601,Select Statement,200,OK,RDCD 1-171,text,true,,134,0,783,783,null,7601,0,7489
+1673924761514,7107,Select Statement,200,OK,RDCD 1-595,text,true,,134,0,782,782,null,7107,0,6994
+1673924761030,7618,Select Statement,200,OK,RDCD 1-182,text,true,,134,0,781,781,null,7618,0,7498
+1673924761208,7459,Select Statement,200,OK,RDCD 1-359,text,true,,134,0,780,780,null,7459,0,7326
+1673924761492,7188,Select Statement,200,OK,RDCD 1-620,text,true,,134,0,779,779,null,7188,0,7056
+1673924761521,7160,Select Statement,200,OK,RDCD 1-572,text,true,,134,0,778,778,null,7160,0,7037
+1673924761984,6707,Select Statement,200,OK,RDCD 1-990,text,true,,134,0,777,777,null,6707,0,6585
+1673924761523,7175,Select Statement,200,OK,RDCD 1-609,text,true,,134,0,776,776,null,7175,0,7047
+1673924761251,7457,Select Statement,200,OK,RDCD 1-403,text,true,,134,0,775,775,null,7457,0,7318
+1673924761720,6988,Select Statement,200,OK,RDCD 1-856,text,true,,134,0,775,775,null,6988,0,6850
+1673924760935,7778,Select Statement,200,OK,RDCD 1-86,text,true,,134,0,773,773,null,7778,0,7646
+1673924761722,6993,Select Statement,200,OK,RDCD 1-871,text,true,,134,0,772,772,null,6993,0,6856
+1673924761857,6861,Select Statement,200,OK,RDCD 1-999,text,true,,134,0,771,771,null,6861,0,6728
+1673924761068,7662,Select Statement,200,OK,RDCD 1-219,text,true,,134,0,770,770,null,7662,0,7186
+1673924761165,7565,Select Statement,200,OK,RDCD 1-315,text,true,,134,0,769,769,null,7565,0,7008
+1673924761243,7493,Select Statement,200,OK,RDCD 1-395,text,true,,134,0,768,768,null,7493,0,7378
+1673924761226,7521,Select Statement,200,OK,RDCD 1-378,text,true,,134,0,767,767,null,7521,0,7426
+1673924761597,7150,Select Statement,200,OK,RDCD 1-590,text,true,,134,0,766,766,null,7150,0,7055
+1673924761679,7086,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-824,text,false,,36,0,765,765,null,0,0,7086
+1673924760922,7848,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-73,text,false,,36,0,764,764,null,0,0,7848
+1673924760940,7842,Select Statement,200,OK,RDCD 1-91,text,true,,134,0,763,763,null,7842,0,7743
+1673924761216,7566,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-368,text,false,,36,0,763,763,null,0,0,7566
+1673924761125,7658,Select Statement,200,OK,RDCD 1-276,text,true,,134,0,762,762,null,7658,0,7560
+1673924761343,7440,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-466,text,false,,36,0,760,760,null,0,0,7440
+1673924761566,7219,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-690,text,false,,36,0,759,759,null,0,0,7219
+1673924761258,7530,Select Statement,200,OK,RDCD 1-410,text,true,,134,0,758,758,null,7530,0,7432
+1673924761523,7265,Select Statement,200,OK,RDCD 1-614,text,true,,134,0,757,757,null,7265,0,7168
+1673924761568,7221,Select Statement,200,OK,RDCD 1-709,text,true,,134,0,756,756,null,7221,0,6766
+1673924761410,7384,Select Statement,200,OK,RDCD 1-524,text,true,,134,0,755,755,null,7384,0,7031
+1673924760992,7811,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-143,text,false,,36,0,754,754,null,0,0,7811
+1673924761129,7678,Select Statement,200,OK,RDCD 1-280,text,true,,134,0,753,753,null,7678,0,7637
+1673924761341,7467,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-489,text,false,,36,0,752,752,null,0,0,7467
+1673924761342,7467,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-478,text,false,,36,0,751,751,null,0,0,7467
+1673924760887,7922,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-37,text,false,,36,0,750,750,null,0,0,7922
+1673924761629,7182,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-777,text,false,,36,0,749,749,null,0,0,7182
+1673924761106,7709,Select Statement,200,OK,RDCD 1-257,text,true,,134,0,748,748,null,7709,0,7637
+1673924761509,7306,Select Statement,200,OK,RDCD 1-657,text,true,,134,0,747,747,null,7306,0,7236
+1673924761524,7292,Select Statement,200,OK,RDCD 1-567,text,true,,134,0,746,746,null,7292,0,7220
+1673924761418,7399,Select Statement,200,OK,RDCD 1-495,text,true,,134,0,745,745,null,7399,0,7325
+1673924760964,7855,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-116,text,false,,36,0,744,744,null,0,0,7855
+1673924761413,7406,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-557,text,false,,36,0,743,743,null,0,0,7406
+1673924760921,7899,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-71,text,false,,36,0,742,742,null,0,0,7899
+1673924761213,7613,Select Statement,200,OK,RDCD 1-365,text,true,,134,0,741,741,null,7612,0,7525
+1673924761729,7097,Select Statement,200,OK,RDCD 1-846,text,true,,134,0,740,740,null,7097,0,7004
+1673924761520,7309,Select Statement,200,OK,RDCD 1-583,text,true,,134,0,739,739,null,7309,0,7214
+1673924761411,7419,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-555,text,false,,36,0,738,738,null,0,0,7419
+1673924761796,7043,Select Statement,200,OK,RDCD 1-925,text,true,,134,0,737,737,null,7042,0,6559
+1673924761401,7438,Select Statement,200,OK,RDCD 1-546,text,true,,134,0,736,736,null,7438,0,7328
+1673924761185,7655,Select Statement,200,OK,RDCD 1-336,text,true,,134,0,735,735,null,7655,0,7544
+1673924761100,7741,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-251,text,false,,36,0,734,734,null,0,0,7741
+1673924760874,7967,Select Statement,200,OK,RDCD 1-24,text,true,,134,0,733,733,null,7967,0,7087
+1673924760974,7870,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-125,text,false,,36,0,732,732,null,0,0,7870
+1673924761070,7774,Select Statement,200,OK,RDCD 1-220,text,true,,134,0,732,732,null,7774,0,7714
+1673924761491,7353,Select Statement,200,OK,RDCD 1-639,text,true,,134,0,731,731,null,7353,0,7292
+1673924760915,7930,Select Statement,200,OK,RDCD 1-66,text,true,,134,0,729,729,null,7930,0,7869
+1673924761503,7343,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-617,text,false,,36,0,728,728,null,0,0,7343
+1673924761985,6880,Select Statement,200,OK,RDCD 1-974,text,true,,134,0,727,727,null,6880,0,6462
+1673924761823,7042,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-975,text,false,,36,0,727,727,null,0,0,7042
+1673924761817,7053,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-924,text,false,,36,0,725,725,null,0,0,7053
+1673924761072,7804,Select Statement,200,OK,RDCD 1-223,text,true,,134,0,724,724,null,7804,0,7730
+1673924761535,7347,Select Statement,200,OK,RDCD 1-680,text,true,,134,0,723,723,null,7347,0,7267
+1673924761609,7281,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-757,text,false,,36,0,722,722,null,0,0,7281
+1673924761504,7393,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-646,text,false,,36,0,721,721,null,0,0,7393
+1673924761416,7484,Select Statement,200,OK,RDCD 1-497,text,true,,134,0,720,720,null,7484,0,7292
+1673924761569,7353,Select Statement,200,OK,RDCD 1-714,text,true,,134,0,719,719,null,7353,0,7128
+1673924761073,7856,Select Statement,200,OK,RDCD 1-224,text,true,,134,0,718,718,null,7856,0,6955
+1673924761201,7737,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-353,text,false,,36,0,717,717,null,0,0,7737
+1673924761534,7404,Select Statement,200,OK,RDCD 1-667,text,true,,134,0,717,717,null,7404,0,7285
+1673924761244,7694,Select Statement,200,OK,RDCD 1-396,text,true,,134,0,717,717,null,7694,0,7575
+1673924761300,7638,Select Statement,200,OK,RDCD 1-451,text,true,,134,0,714,714,null,7638,0,7520
+1673924761214,7725,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-366,text,false,,36,0,713,713,null,0,0,7725
+1673924760920,8019,Select Statement,200,OK,RDCD 1-70,text,true,,134,0,712,712,null,8019,0,7472
+1673924761533,7407,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-659,text,false,,36,0,711,711,null,0,0,7407
+1673924761160,7781,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-311,text,false,,36,0,710,710,null,0,0,7781
+1673924760945,8010,Select Statement,200,OK,RDCD 1-95,text,true,,134,0,709,709,null,8010,0,7412
+1673924761818,7145,Select Statement,200,OK,RDCD 1-927,text,true,,134,0,708,708,null,7145,0,7014
+1673924761118,7845,Select Statement,200,OK,RDCD 1-268,text,true,,134,0,708,708,null,7845,0,7714
+1673924760971,7993,Select Statement,200,OK,RDCD 1-123,text,true,,134,0,706,706,null,7992,0,7864
+1673924761108,7856,Select Statement,200,OK,RDCD 1-258,text,true,,134,0,705,705,null,7856,0,7727
+1673924761221,7751,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-372,text,false,,36,0,704,704,null,0,0,7751
+1673924761619,7354,Select Statement,200,OK,RDCD 1-738,text,true,,134,0,703,703,null,7354,0,7226
+1673924761737,7236,Select Statement,200,OK,RDCD 1-833,text,true,,134,0,702,702,null,7236,0,7109
+1673924761050,7924,Select Statement,200,OK,RDCD 1-197,text,true,,134,0,701,701,null,7924,0,7795
+1673924761504,7482,Select Statement,200,OK,RDCD 1-654,text,true,,134,0,700,700,null,7482,0,6503
+1673924761816,7174,Select Statement,200,OK,RDCD 1-912,text,true,,134,0,699,699,null,7174,0,7060
+1673924761542,7451,Select Statement,200,OK,RDCD 1-692,text,true,,134,0,698,698,null,7451,0,7340
+1673924760991,8012,Select Statement,200,OK,RDCD 1-142,text,true,,134,0,697,697,null,8012,0,7906
+1673924761001,8003,Select Statement,200,OK,RDCD 1-152,text,true,,134,0,696,696,null,8003,0,7909
+1673924761652,7360,Select Statement,200,OK,RDCD 1-799,text,true,,134,0,695,695,null,7360,0,6957
+1673924760861,8154,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-13,text,false,,80,0,694,694,null,0,0,8154
+1673924761091,7925,Select Statement,200,OK,RDCD 1-242,text,true,,134,0,694,694,null,7925,0,7847
+1673924761492,7524,Select Statement,200,OK,RDCD 1-626,text,true,,134,0,692,692,null,7524,0,7447
+1673924761147,7870,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-298,text,false,,80,0,691,691,null,0,0,7870
+1673924761411,7606,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-508,text,false,,36,0,691,691,null,0,0,7606
+1673924761238,7779,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-390,text,false,,80,0,689,689,null,0,0,7779
+1673924761059,7959,Select Statement,200,OK,RDCD 1-210,text,true,,134,0,688,688,null,7959,0,7882
+1673924761173,7846,Select Statement,200,OK,RDCD 1-323,text,true,,134,0,687,687,null,7846,0,7790
+1673924761169,7851,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-320,text,false,,36,0,686,686,null,0,0,7851
+1673924761096,7924,Select Statement,200,OK,RDCD 1-246,text,true,,134,0,685,685,null,7924,0,7845
+1673924760887,8133,Select Statement,200,OK,RDCD 1-36,text,true,,134,0,684,684,null,8133,0,8075
+1673924761126,7898,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-277,text,false,,36,0,683,683,null,0,0,7898
+1673924761159,7866,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-309,text,false,,80,0,682,682,null,0,0,7866
+1673924761186,7845,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-337,text,false,,36,0,681,681,null,0,0,7845
+1673924760995,8036,Select Statement,200,OK,RDCD 1-145,text,true,,134,0,680,680,null,8036,0,7968
+1673924761615,7417,Select Statement,200,OK,RDCD 1-741,text,true,,134,0,679,679,null,7417,0,7350
+1673924760946,8087,Select Statement,200,OK,RDCD 1-96,text,true,,134,0,678,678,null,8087,0,8022
+1673924761172,7861,Select Statement,200,OK,RDCD 1-322,text,true,,134,0,677,677,null,7861,0,7791
+1673924760901,8132,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-54,text,false,,36,0,676,676,null,0,0,8132
+1673924761034,8000,Select Statement,200,OK,RDCD 1-186,text,true,,134,0,675,675,null,8000,0,7935
+1673924761413,7622,Select Statement,200,OK,RDCD 1-554,text,true,,134,0,674,674,null,7622,0,7560
+1673924760963,8072,Select Statement,200,OK,RDCD 1-114,text,true,,134,0,674,674,null,8072,0,8010
+1673924761210,7825,Select Statement,200,OK,RDCD 1-362,text,true,,134,0,673,673,null,7825,0,7763
+1673924760888,8146,Select Statement,200,OK,RDCD 1-40,text,true,,134,0,673,673,null,8146,0,8082
+1673924761288,7747,Select Statement,200,OK,RDCD 1-438,text,true,,134,0,672,672,null,7747,0,7685
+1673924761732,7303,Select Statement,200,OK,RDCD 1-794,text,true,,134,0,671,670,null,7303,0,7241
+1673924761340,7695,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-488,text,false,,36,0,668,668,null,0,0,7695
+1673924761551,7485,Select Statement,200,OK,RDCD 1-696,text,true,,134,0,667,667,null,7485,0,7422
+1673924761716,7324,Select Statement,200,OK,RDCD 1-726,text,true,,134,0,666,666,null,7324,0,7264
+1673924761777,7264,Select Statement,200,OK,RDCD 1-918,text,true,,134,0,665,665,null,7264,0,6802
+1673924760858,8189,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-5,text,false,,36,0,664,664,null,0,0,8189
+1673924761114,7935,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-265,text,false,,36,0,663,663,null,0,0,7935
+1673924760864,8184,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-16,text,false,,36,0,663,663,null,0,0,8184
+1673924761679,7371,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-823,text,false,,80,0,661,661,null,0,0,7371
+1673924760892,8165,Select Statement,200,OK,RDCD 1-42,text,true,,134,0,660,660,null,8165,0,8111
+1673924761145,7913,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-296,text,false,,36,0,660,660,null,0,0,7913
+1673924761403,7656,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-521,text,false,,36,0,658,658,null,0,0,7656
+1673924761410,7649,Select Statement,200,OK,RDCD 1-519,text,true,,134,0,658,658,null,7649,0,7594
+1673924761146,7914,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-297,text,false,,36,0,656,656,null,0,0,7914
+1673924760968,8092,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-119,text,false,,36,0,655,655,null,0,0,8092
+1673924761492,7576,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-635,text,false,,36,0,654,654,null,0,0,7576
+1673924761652,7428,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-792,text,false,,36,0,653,653,null,0,0,7428
+1673924761031,8058,Select Statement,200,OK,RDCD 1-184,text,true,,134,0,652,652,null,8058,0,7980
+1673924761821,7269,Select Statement,200,OK,RDCD 1-964,text,true,,134,0,651,651,null,7269,0,7196
+1673924761532,7558,Select Statement,200,OK,RDCD 1-656,text,true,,134,0,651,651,null,7558,0,7486
+1673924761986,7104,Select Statement,200,OK,RDCD 1-965,text,true,,134,0,649,649,null,7104,0,7034
+1673924761110,7981,Select Statement,200,OK,RDCD 1-260,text,true,,134,0,649,649,null,7980,0,7494
+1673924761262,7836,Select Statement,200,OK,RDCD 1-414,text,true,,134,0,647,647,null,7835,0,6987
+1673924761985,7119,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-966,text,false,,36,0,646,646,null,0,0,7119
+1673924761139,7966,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-289,text,false,,36,0,645,645,null,0,0,7966
+1673924761343,7763,Select Statement,200,OK,RDCD 1-470,text,true,,134,0,644,644,null,7763,0,7682
+1673924761514,7599,Select Statement,200,OK,RDCD 1-662,text,true,,134,0,643,643,null,7599,0,7517
+1673924761035,8081,Select Statement,200,OK,RDCD 1-188,text,true,,134,0,642,642,null,8081,0,7997
+1673924761014,8102,Select Statement,200,OK,RDCD 1-166,text,true,,134,0,642,642,null,8102,0,8018
+1673924761713,7403,Select Statement,200,OK,RDCD 1-864,text,true,,134,0,642,642,null,7403,0,7320
+1673924761514,7602,Select Statement,200,OK,RDCD 1-591,text,true,,134,0,640,640,null,7602,0,7519
+1673924760881,8234,Select Statement,200,OK,RDCD 1-32,text,true,,134,0,638,638,null,8234,0,8151
+1673924760900,8221,Select Statement,200,OK,RDCD 1-53,text,true,,134,0,637,637,null,8221,0,8138
+1673924761843,7279,Select Statement,200,OK,RDCD 1-929,text,true,,134,0,636,636,null,7279,0,7197
+1673924761100,8023,Select Statement,200,OK,RDCD 1-250,text,true,,134,0,635,635,null,8023,0,7941
+1673924761101,8029,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-252,text,false,,36,0,634,634,null,0,0,8029
+1673924761817,7314,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-923,text,false,,36,0,633,633,null,0,0,7314
+1673924761579,7554,Select Statement,200,OK,RDCD 1-728,text,true,,134,0,632,632,null,7554,0,7472
+1673924760938,8196,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-88,text,false,,36,0,631,631,null,0,0,8196
+1673924761986,7154,Select Statement,200,OK,RDCD 1-958,text,true,,134,0,630,630,null,7154,0,7069
+1673924761409,7731,Select Statement,200,OK,RDCD 1-528,text,true,,134,0,629,629,null,7731,0,7657
+1673924761818,7323,Select Statement,200,OK,RDCD 1-931,text,true,,134,0,628,628,null,7323,0,7248
+1673924761027,8162,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-179,text,false,,36,0,627,627,null,0,0,8162
+1673924761298,7898,Select Statement,200,OK,RDCD 1-448,text,true,,134,0,626,626,null,7898,0,7842
+1673924760869,8327,Select Statement,200,OK,RDCD 1-21,text,true,,134,0,625,625,null,8327,0,7739
+1673924760940,8264,Select Statement,200,OK,RDCD 1-90,text,true,,134,0,624,624,null,8264,0,8245
+1673924761816,7388,Select Statement,200,OK,RDCD 1-911,text,true,,134,0,623,623,null,7388,0,7371
+1673924761661,7548,Select Statement,200,OK,RDCD 1-807,text,true,,134,0,622,622,null,7548,0,7479
+1673924761719,7490,Select Statement,200,OK,RDCD 1-853,text,true,,134,0,622,622,null,7490,0,7420
+1673924761521,7689,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-575,text,false,,36,0,620,620,null,0,0,7689
+1673924761819,7392,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-943,text,false,,36,0,619,619,null,0,0,7392
+1673924760941,8271,Select Statement,200,OK,RDCD 1-92,text,true,,134,0,618,618,null,8271,0,8189
+1673924761608,7609,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-760,text,false,,36,0,617,617,null,0,0,7609
+1673924760966,8252,Select Statement,200,OK,RDCD 1-117,text,true,,134,0,617,617,null,8251,0,8161
+1673924761565,7666,Select Statement,200,OK,RDCD 1-681,text,true,,134,0,615,615,null,7666,0,7548
+1673924761136,8095,Select Statement,200,OK,RDCD 1-288,text,true,,134,0,614,614,null,8095,0,7981
+1673924761492,7743,Select Statement,200,OK,RDCD 1-629,text,true,,134,0,613,613,null,7743,0,7378
+1673924761208,8029,Select Statement,200,OK,RDCD 1-360,text,true,,134,0,612,612,null,8029,0,8000
+1673924760864,8377,Select Statement,200,OK,RDCD 1-14,text,true,,134,0,611,611,null,8377,0,7994
+1673924761606,7644,Select Statement,200,OK,RDCD 1-748,text,true,,134,0,610,610,null,7644,0,7609
+1673924761492,7773,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-631,text,false,,36,0,609,609,null,0,0,7773
+1673924761153,8112,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-304,text,false,,36,0,608,608,null,0,0,8112
+1673924761109,8157,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-259,text,false,,36,0,607,607,null,0,0,8157
+1673924761729,7542,Select Statement,200,OK,RDCD 1-845,text,true,,134,0,606,606,null,7541,0,6938
+1673924761509,7762,Select Statement,200,OK,RDCD 1-658,text,true,,134,0,606,606,null,7761,0,7607
+1673924761754,7518,Select Statement,200,OK,RDCD 1-898,text,true,,134,0,604,604,null,7518,0,7359
+1673924761054,8221,Select Statement,200,OK,RDCD 1-204,text,true,,134,0,603,603,null,8221,0,8168
+1673924761295,7981,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-446,text,false,,36,0,602,602,null,0,0,7981
+1673924761563,7713,Select Statement,200,OK,RDCD 1-597,text,true,,134,0,601,601,null,7713,0,7659
+1673924761310,7967,Select Statement,200,OK,RDCD 1-461,text,true,,134,0,600,600,null,7967,0,7796
+1673924761513,7767,Select Statement,200,OK,RDCD 1-607,text,true,,134,0,599,599,null,7767,0,7720
+1673924761666,7617,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-812,text,false,,36,0,598,598,null,0,0,7617
+1673924761536,7752,Select Statement,200,OK,RDCD 1-687,text,true,,134,0,597,597,null,7752,0,7553
+1673924761818,7471,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-936,text,false,,36,0,596,596,null,0,0,7471
+1673924761263,8026,Select Statement,200,OK,RDCD 1-415,text,true,,134,0,595,595,null,8026,0,7827
+1673924760989,8301,Select Statement,200,OK,RDCD 1-140,text,true,,134,0,594,594,null,8301,0,8105
+1673924761129,8161,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-279,text,false,,36,0,593,593,null,0,0,8161
+1673924760868,8424,Select Statement,200,OK,RDCD 1-19,text,true,,134,0,592,592,null,8424,0,8366
+1673924760978,8315,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-129,text,false,,36,0,592,592,null,0,0,8315
+1673924761203,8090,Select Statement,200,OK,RDCD 1-354,text,true,,134,0,590,590,null,8090,0,8032
+1673924761222,8071,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-373,text,false,,36,0,590,590,null,0,0,8071
+1673924761194,8102,Select Statement,200,OK,RDCD 1-345,text,true,,134,0,588,588,null,8102,0,8042
+1673924761173,8123,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-324,text,false,,36,0,588,588,null,0,0,8123
+1673924761212,8084,Select Statement,200,OK,RDCD 1-363,text,true,,134,0,586,586,null,8084,0,8024
+1673924761984,7317,Select Statement,200,OK,RDCD 1-989,text,true,,134,0,585,585,null,7316,0,7106
+1673924761814,7488,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-896,text,false,,36,0,584,584,null,0,0,7488
+1673924761254,8053,Select Statement,200,OK,RDCD 1-406,text,true,,134,0,583,583,null,8053,0,7837
+1673924761429,7879,Select Statement,200,OK,RDCD 1-570,text,true,,134,0,582,582,null,7879,0,7662
+1673924761123,8185,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-274,text,false,,36,0,581,581,null,0,0,8185
+1673924761580,7730,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-731,text,false,,36,0,580,580,null,0,0,7730
+1673924761017,8294,Select Statement,200,OK,RDCD 1-169,text,true,,134,0,580,580,null,8293,0,7873
+1673924761533,7778,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-660,text,false,,36,0,578,578,null,0,0,7778
+1673924761432,7881,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-582,text,false,,36,0,577,577,null,0,0,7881
+1673924761093,8220,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-244,text,false,,36,0,576,576,null,0,0,8220
+1673924761652,7663,Select Statement,200,OK,RDCD 1-791,text,true,,134,0,575,575,null,7663,0,7122
+1673924761573,7751,Select Statement,200,OK,RDCD 1-708,text,true,,134,0,574,574,null,7751,0,7495
+1673924761984,7342,Select Statement,200,OK,RDCD 1-978,text,true,,134,0,573,573,null,7342,0,6939
+1673924761417,7909,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-500,text,false,,80,0,573,573,null,0,0,7909
+1673924761565,7761,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-677,text,false,,80,0,573,573,null,0,0,7761
+1673924761431,7895,Select Statement,200,OK,RDCD 1-574,text,true,,134,0,573,573,null,7895,0,7110
+1673924761572,7754,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-703,text,false,,80,0,573,573,null,0,0,7754
+1673924761729,7604,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-847,text,false,,36,0,568,568,null,0,0,7604
+1673924761720,7613,Select Statement,200,OK,RDCD 1-852,text,true,,134,0,567,567,null,7613,0,5762
+1673924761755,7582,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-901,text,false,,36,0,566,566,null,0,0,7582
+1673924761285,8054,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-436,text,false,,36,0,565,565,null,0,0,8054
+1673924761278,8062,Select Statement,200,OK,RDCD 1-429,text,true,,134,0,564,564,null,8062,0,7972
+1673924761813,7528,Select Statement,200,OK,RDCD 1-891,text,true,,134,0,563,563,null,7528,0,7444
+1673924761091,8251,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-241,text,false,,36,0,562,562,null,0,0,8251
+1673924761608,7734,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-745,text,false,,36,0,561,561,null,0,0,7734
+1673924761744,7598,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-887,text,false,,36,0,561,561,null,0,0,7598
+1673924761411,7937,Select Statement,200,OK,RDCD 1-547,text,true,,134,0,559,559,null,7937,0,7479
+1673924761573,7776,Select Statement,200,OK,RDCD 1-704,text,true,,134,0,558,558,null,7775,0,7700
+1673924761536,7813,Select Statement,200,OK,RDCD 1-684,text,true,,134,0,557,557,null,7813,0,7053
+1673924761615,7734,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-743,text,false,,36,0,556,556,null,0,0,7734
+1673924761326,8023,Select Statement,200,OK,RDCD 1-468,text,true,,134,0,555,555,null,8023,0,7949
+1673924761551,7799,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-700,text,false,,36,0,554,554,null,0,0,7799
+1673924761818,7532,Select Statement,200,OK,RDCD 1-932,text,true,,134,0,554,554,null,7532,0,7458
+1673924761567,7783,Select Statement,200,OK,RDCD 1-697,text,true,,134,0,552,552,null,7783,0,7385
+1673924761271,8080,Select Statement,200,OK,RDCD 1-423,text,true,,134,0,551,551,null,8080,0,7654
+1673924761028,8323,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-180,text,false,,36,0,550,550,null,0,0,8323
+1673924761542,7810,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-691,text,false,,36,0,549,549,null,0,0,7810
+1673924761141,8212,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-292,text,false,,36,0,548,548,null,0,0,8212
+1673924761816,7539,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-907,text,false,,36,0,547,547,null,0,0,7539
+1673924761735,7622,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-837,text,false,,36,0,546,546,null,0,0,7622
+1673924761131,8227,Select Statement,200,OK,RDCD 1-282,text,true,,134,0,545,545,null,8226,0,8145
+1673924761735,7623,Select Statement,200,OK,RDCD 1-834,text,true,,134,0,545,545,null,7623,0,7541
+1673924761196,8162,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-346,text,false,,36,0,543,543,null,0,0,8162
+1673924760982,8376,Select Statement,200,OK,RDCD 1-133,text,true,,134,0,542,542,null,8376,0,8293
+1673924761569,7790,Select Statement,200,OK,RDCD 1-721,text,true,,134,0,541,541,null,7790,0,7707
+1673924761342,8017,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-474,text,false,,36,0,540,540,null,0,0,8017
+1673924760915,8445,Select Statement,200,OK,RDCD 1-65,text,true,,134,0,539,539,null,8445,0,8361
+1673924761178,8185,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-328,text,false,,36,0,538,538,null,0,0,8185
+1673924760999,8373,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-149,text,false,,36,0,537,537,null,0,0,8373
+1673924761330,8042,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-479,text,false,,36,0,537,537,null,0,0,8042
+1673924760934,8445,Select Statement,200,OK,RDCD 1-85,text,true,,134,0,535,535,null,8445,0,8358
+1673924761198,8182,Select Statement,200,OK,RDCD 1-349,text,true,,134,0,534,534,null,8182,0,8103
+1673924760960,8421,Select Statement,200,OK,RDCD 1-111,text,true,,134,0,533,533,null,8421,0,7964
+1673924760933,8448,Select Statement,200,OK,RDCD 1-84,text,true,,134,0,532,532,null,8448,0,8056
+1673924761814,7568,Select Statement,200,OK,RDCD 1-899,text,true,,134,0,531,531,null,7567,0,7175
+1673924761403,7990,Select Statement,200,OK,RDCD 1-525,text,true,,134,0,530,530,null,7990,0,7549
+1673924761078,8315,Select Statement,200,OK,RDCD 1-229,text,true,,134,0,529,529,null,8315,0,7507
+1673924761851,7542,Select Statement,200,OK,RDCD 1-934,text,true,,134,0,528,528,null,7542,0,6729
+1673924761737,7662,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-882,text,false,,36,0,527,527,null,0,0,7662
+1673924761130,8274,Select Statement,200,OK,RDCD 1-281,text,true,,134,0,526,526,null,8274,0,8203
+1673924761401,8003,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-550,text,false,,36,0,526,526,null,0,0,8003
+1673924760996,8408,Select Statement,200,OK,RDCD 1-147,text,true,,134,0,525,525,null,8408,0,7991
+1673924761061,8343,Select Statement,200,OK,RDCD 1-211,text,true,,134,0,525,525,null,8343,0,7928
+1673924761196,8209,Select Statement,200,OK,RDCD 1-347,text,true,,134,0,522,522,null,8209,0,7793
+1673924761615,7790,Select Statement,200,OK,RDCD 1-742,text,true,,134,0,521,521,null,7790,0,7373
+1673924761666,7739,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-811,text,false,,36,0,521,521,null,0,0,7739
+1673924761985,7420,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-970,text,false,,36,0,519,519,null,0,0,7420
+1673924761836,7570,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-987,text,false,,36,0,518,518,null,0,0,7570
+1673924761050,8357,Select Statement,200,OK,RDCD 1-201,text,true,,134,0,517,517,null,8357,0,7942
+1673924761535,7872,Select Statement,200,OK,RDCD 1-672,text,true,,134,0,516,516,null,7872,0,7455
+1673924761403,8004,Select Statement,200,OK,RDCD 1-522,text,true,,134,0,516,516,null,8004,0,7589
+1673924761492,7915,Select Statement,200,OK,RDCD 1-642,text,true,,134,0,514,514,null,7915,0,7850
+1673924760958,8449,Select Statement,200,OK,RDCD 1-109,text,true,,134,0,514,514,null,8449,0,7594
+1673924761567,7841,Select Statement,200,OK,RDCD 1-698,text,true,,134,0,513,513,null,7841,0,7425
+1673924761257,8151,Select Statement,200,OK,RDCD 1-409,text,true,,134,0,512,512,null,8151,0,7381
+1673924761124,8285,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-275,text,false,,36,0,510,510,null,0,0,8285
+1673924761142,8271,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-293,text,false,,36,0,509,509,null,0,0,8271
+1673924761569,7849,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-718,text,false,,36,0,508,508,null,0,0,7849
+1673924761246,8172,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-398,text,false,,36,0,508,508,null,0,0,8172
+1673924761600,7819,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-751,text,false,,36,0,506,506,null,0,0,7819
+1673924761453,7966,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-585,text,false,,36,0,505,505,null,0,0,7966
+1673924761738,7682,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-829,text,false,,36,0,504,504,null,0,0,7682
+1673924761492,7928,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-625,text,false,,36,0,503,503,null,0,0,7928
+1673924761302,8118,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-454,text,false,,36,0,502,502,null,0,0,8118
+1673924761413,8017,Select Statement,200,OK,RDCD 1-558,text,true,,134,0,501,501,null,8016,0,7579
+1673924761223,8207,Select Statement,200,OK,RDCD 1-374,text,true,,134,0,501,501,null,8206,0,7319
+1673924761018,8412,Select Statement,200,OK,RDCD 1-170,text,true,,134,0,501,501,null,8411,0,7907
+1673924761133,8297,Select Statement,200,OK,RDCD 1-284,text,true,,134,0,498,498,null,8297,0,7860
+1673924761736,7694,Select Statement,200,OK,RDCD 1-877,text,true,,134,0,497,497,null,7694,0,7217
+1673924761182,8248,Select Statement,200,OK,RDCD 1-333,text,true,,134,0,497,497,null,8248,0,8197
+1673924761652,7779,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-787,text,false,,36,0,495,495,null,0,0,7779
+1673924760960,8471,Select Statement,200,OK,RDCD 1-110,text,true,,134,0,494,494,null,8471,0,8419
+1673924760976,8455,Select Statement,200,OK,RDCD 1-127,text,true,,134,0,494,494,null,8455,0,8404
+1673924761728,7703,Select Statement,200,OK,RDCD 1-848,text,true,,134,0,492,492,null,7703,0,7652
+1673924761984,7447,Select Statement,200,OK,RDCD 1-985,text,true,,134,0,491,491,null,7447,0,7396
+1673924761984,7447,Select Statement,200,OK,RDCD 1-997,text,true,,134,0,490,490,null,7447,0,7396
+1673924760956,8476,Select Statement,200,OK,RDCD 1-107,text,true,,134,0,489,489,null,8476,0,8425
+1673924761343,8089,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-469,text,false,,36,0,488,488,null,0,0,8089
+1673924761242,8190,Select Statement,200,OK,RDCD 1-394,text,true,,134,0,487,487,null,8190,0,8137
+1673924761819,7614,Select Statement,200,OK,RDCD 1-948,text,true,,134,0,486,486,null,7614,0,7572
+1673924760916,8518,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-67,text,false,,36,0,485,485,null,0,0,8518
+1673924760931,8504,Select Statement,200,OK,RDCD 1-82,text,true,,134,0,484,484,null,8504,0,8461
+1673924761608,7827,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-759,text,false,,36,0,483,483,null,0,0,7827
+1673924761054,8382,Select Statement,200,OK,RDCD 1-205,text,true,,134,0,482,482,null,8382,0,8345
+1673924761290,8146,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-441,text,false,,36,0,481,481,null,0,0,8146
+1673924761006,8430,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-158,text,false,,36,0,480,480,null,0,0,8430
+1673924761526,7922,Select Statement,200,OK,RDCD 1-560,text,true,,134,0,479,479,null,7922,0,7878
+1673924761174,8280,Select Statement,200,OK,RDCD 1-325,text,true,,134,0,478,478,null,8280,0,8231
+1673924761573,7881,Select Statement,200,OK,RDCD 1-707,text,true,,134,0,478,478,null,7881,0,7831
+1673924761984,7471,Select Statement,200,OK,RDCD 1-982,text,true,,134,0,476,476,null,7471,0,7420
+1673924761140,8314,Select Statement,200,OK,RDCD 1-291,text,true,,134,0,478,478,null,8314,0,8265
+1673924761326,8129,Select Statement,200,OK,RDCD 1-471,text,true,,134,0,476,476,null,8129,0,8080
+1673924760930,8525,Select Statement,200,OK,RDCD 1-81,text,true,,134,0,473,473,null,8525,0,8475
+1673924761090,8365,Select Statement,200,OK,RDCD 1-240,text,true,,134,0,472,472,null,8365,0,8315
+1673924761709,7746,Select Statement,200,OK,RDCD 1-733,text,true,,134,0,472,472,null,7746,0,7697
+1673924761247,8209,Select Statement,200,OK,RDCD 1-399,text,true,,134,0,470,470,null,8209,0,8159
+1673924761241,8215,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-392,text,false,,36,0,470,470,null,0,0,8215
+1673924761136,8320,Select Statement,200,OK,RDCD 1-287,text,true,,134,0,468,468,null,8320,0,8270
+1673924761252,8204,Select Statement,200,OK,RDCD 1-404,text,true,,134,0,467,467,null,8204,0,8155
+1673924761341,8116,Select Statement,200,OK,RDCD 1-481,text,true,,134,0,466,466,null,8115,0,8066
+1673924761168,8289,Select Statement,200,OK,RDCD 1-319,text,true,,134,0,465,465,null,8289,0,8242
+1673924761573,7884,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-711,text,false,,36,0,464,464,null,0,0,7884
+1673924761088,8369,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-239,text,false,,36,0,463,463,null,0,0,8369
+1673924761652,7805,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-796,text,false,,36,0,462,462,null,0,0,7805
+1673924761298,8160,Select Statement,200,OK,RDCD 1-449,text,true,,134,0,461,461,null,8160,0,8120
+1673924761403,8055,Select Statement,200,OK,RDCD 1-553,text,true,,134,0,460,460,null,8055,0,8016
+1673924761566,7892,Select Statement,200,OK,RDCD 1-689,text,true,,134,0,459,459,null,7892,0,7855
+1673924761634,7825,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-785,text,false,,36,0,458,458,null,0,0,7825
+1673924761709,7750,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-734,text,false,,36,0,458,458,null,0,0,7750
+1673924760875,8583,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-26,text,false,,36,0,456,456,null,0,0,8583
+1673924761804,7659,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-888,text,false,,36,0,455,455,null,0,0,7659
+1673924761514,7949,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-599,text,false,,36,0,454,454,null,0,0,7949
+1673924761132,8332,Select Statement,200,OK,RDCD 1-283,text,true,,134,0,453,453,null,8332,0,8298
+1673924761734,7730,Select Statement,200,OK,RDCD 1-841,text,true,,134,0,453,453,null,7730,0,7696
+1673924761755,7709,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-906,text,false,,36,0,452,452,null,0,0,7709
+1673924761217,8248,Select Statement,200,OK,RDCD 1-369,text,true,,134,0,450,450,null,8248,0,8217
+1673924761575,7890,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-716,text,false,,36,0,450,450,null,0,0,7890
+1673924761231,8234,Select Statement,200,OK,RDCD 1-382,text,true,,134,0,448,448,null,8234,0,8203
+1673924761430,8036,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-573,text,false,,36,0,447,447,null,0,0,8035
+1673924761237,8232,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-389,text,false,,36,0,446,446,null,0,0,8232
+1673924761251,8219,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-402,text,false,,36,0,445,445,null,0,0,8219
+1673924761325,8153,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-467,text,false,,36,0,444,444,null,0,0,8153
+1673924761492,7986,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-623,text,false,,36,0,444,444,null,0,0,7986
+1673924761551,7927,Select Statement,200,OK,RDCD 1-695,text,true,,134,0,443,443,null,7927,0,7883
+1673924761984,7495,Select Statement,200,OK,RDCD 1-994,text,true,,134,0,442,442,null,7495,0,7452
+1673924761340,8140,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-490,text,false,,36,0,441,441,null,0,0,8140
+1673924761816,7683,Select Statement,200,OK,RDCD 1-908,text,true,,134,0,439,439,null,7683,0,7639
+1673924760896,8603,Select Statement,200,OK,RDCD 1-48,text,true,,134,0,438,438,null,8603,0,8558
+1673924761521,7979,Select Statement,200,OK,RDCD 1-571,text,true,,134,0,438,438,null,7979,0,7935
+1673924760858,8641,Select Statement,200,OK,RDCD 1-7,text,true,,134,0,436,436,null,8641,0,8596
+1673924761092,8409,Select Statement,200,OK,RDCD 1-243,text,true,,134,0,435,435,null,8409,0,8364
+1673924761679,7822,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-831,text,false,,36,0,435,435,null,0,0,7822
+1673924761612,7890,Select Statement,200,OK,RDCD 1-744,text,true,,134,0,433,433,null,7890,0,7842
+1673924761305,8197,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-456,text,false,,36,0,432,432,null,0,0,8197
+1673924761081,8421,Select Statement,200,OK,RDCD 1-231,text,true,,134,0,431,431,null,8421,0,8377
+1673924761203,8300,Select Statement,200,OK,RDCD 1-355,text,true,,134,0,431,431,null,8300,0,8255
+1673924761681,7822,Select Statement,200,OK,RDCD 1-832,text,true,,134,0,431,431,null,7822,0,7774
+1673924760948,8555,Select Statement,200,OK,RDCD 1-99,text,true,,134,0,428,428,null,8555,0,8509
+1673924761294,8209,Select Statement,200,OK,RDCD 1-445,text,true,,134,0,427,427,null,8209,0,8162
+1673924761143,8361,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-294,text,false,,36,0,426,426,null,0,0,8361
+1673924761734,7770,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-873,text,false,,36,0,425,425,null,0,0,7770
+1673924761003,8502,Select Statement,200,OK,RDCD 1-154,text,true,,134,0,424,424,null,8501,0,8451
+1673924760951,8554,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-102,text,false,,36,0,423,423,null,0,0,8554
+1673924761301,8204,Select Statement,200,OK,RDCD 1-453,text,true,,134,0,423,423,null,8204,0,8155
+1673924760874,8630,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-25,text,false,,36,0,421,421,null,0,0,8630
+1673924761209,8296,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-361,text,false,,36,0,420,420,null,0,0,8296
+1673924761725,7780,Select Statement,200,OK,RDCD 1-875,text,true,,134,0,419,419,null,7780,0,7738
+1673924760926,8580,Select Statement,200,OK,RDCD 1-77,text,true,,134,0,418,418,null,8579,0,8537
+1673924761215,8292,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-367,text,false,,36,0,417,417,null,0,0,8292
+1673924761411,8100,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-552,text,false,,36,0,416,416,null,0,0,8100
+1673924761532,7987,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-652,text,false,,36,0,415,415,null,0,0,7987
+1673924761260,8261,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-411,text,false,,36,0,414,414,null,0,0,8261
+1673924761820,7702,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-951,text,false,,36,0,413,413,null,0,0,7702
+1673924760997,8525,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-148,text,false,,36,0,412,412,null,0,0,8525
+1673924761417,8106,Select Statement,200,OK,RDCD 1-503,text,true,,134,0,411,411,null,8106,0,8046
+1673924760858,8664,Select Statement,200,OK,RDCD 1-8,text,true,,134,0,410,410,null,8664,0,8611
+1673924761514,8011,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-587,text,false,,36,0,409,409,null,0,0,8011
+1673924761820,7705,Select Statement,200,OK,RDCD 1-956,text,true,,134,0,408,408,null,7705,0,7661
+1673924761065,8461,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-216,text,false,,36,0,407,407,null,0,0,8461
+1673924761510,8016,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-616,text,false,,36,0,406,406,null,0,0,8016
+1673924761666,7861,Select Statement,200,OK,RDCD 1-815,text,true,,134,0,405,405,null,7861,0,7827
+1673924761175,8355,Select Statement,200,OK,RDCD 1-326,text,true,,134,0,404,404,null,8355,0,8299
+1673924761835,7696,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-983,text,false,,80,0,403,403,null,0,0,7696
+1673924761218,8313,Select Statement,200,OK,RDCD 1-370,text,true,,134,0,402,402,null,8313,0,8260
+1673924761984,7549,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-993,text,false,,36,0,401,401,null,0,0,7549
+1673924761397,8137,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-542,text,false,,80,0,400,400,null,0,0,8137
+1673924761330,8240,Select Statement,200,OK,RDCD 1-475,text,true,,134,0,399,399,null,8240,0,8169
+1673924761728,7849,Select Statement,200,OK,RDCD 1-849,text,true,,134,0,398,398,null,7848,0,7772
+1673924761219,8366,Select Statement,200,OK,RDCD 1-371,text,true,,134,0,397,397,null,8365,0,8286
+1673924761180,8405,Select Statement,200,OK,RDCD 1-331,text,true,,134,0,396,396,null,8405,0,8331
+1673924761011,8575,Select Statement,200,OK,RDCD 1-162,text,true,,134,0,395,395,null,8575,0,8493
+1673924761048,8540,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-199,text,false,,36,0,394,394,null,0,0,8540
+1673924761154,8438,Select Statement,200,OK,RDCD 1-305,text,true,,134,0,393,393,null,8438,0,8351
+1673924761181,8411,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-332,text,false,,36,0,392,392,null,0,0,8411
+1673924761740,7853,Select Statement,200,OK,RDCD 1-821,text,true,,134,0,391,391,null,7853,0,7765
+1673924761679,7914,Select Statement,200,OK,RDCD 1-827,text,true,,134,0,390,390,null,7914,0,7847
+1673924761008,8585,Select Statement,200,OK,RDCD 1-161,text,true,,134,0,390,390,null,8585,0,8497
+1673924761985,7617,Select Statement,200,OK,RDCD 1-973,text,true,,134,0,388,388,null,7617,0,7131
+1673924761984,7619,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-998,text,false,,36,0,387,387,null,0,0,7619
+1673924761026,8580,Select Statement,200,OK,RDCD 1-177,text,true,,134,0,386,386,null,8580,0,8504
+1673924761563,8043,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-594,text,false,,36,0,386,386,null,0,0,8043
+1673924761504,8103,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-645,text,false,,36,0,385,385,null,0,0,8103
+1673924761111,8496,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-262,text,false,,36,0,385,385,null,0,0,8496
+1673924760858,8749,Select Statement,200,OK,RDCD 1-1,text,true,,134,0,382,382,null,8749,0,8672
+1673924761086,8522,Select Statement,200,OK,RDCD 1-237,text,true,,134,0,381,381,null,8522,0,8446
+1673924761417,8191,Select Statement,200,OK,RDCD 1-493,text,true,,134,0,381,381,null,8191,0,8117
+1673924761241,8367,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-393,text,false,,36,0,380,380,null,0,0,8367
+1673924761116,8494,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-267,text,false,,36,0,378,378,null,0,0,8494
+1673924761134,8495,Select Statement,200,OK,RDCD 1-286,text,true,,134,0,377,377,null,8495,0,8450
+1673924760913,8716,Select Statement,200,OK,RDCD 1-63,text,true,,134,0,377,377,null,8716,0,8671
+1673924760979,8650,Select Statement,200,OK,RDCD 1-131,text,true,,134,0,375,375,null,8650,0,8606
+1673924761227,8412,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-379,text,false,,80,0,374,374,null,0,0,8412
+1673924760898,8740,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-51,text,false,,80,0,373,373,null,0,0,8740
+1673924761985,7659,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-969,text,false,,36,0,372,372,null,0,0,7659
+1673924760883,8761,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-34,text,false,,80,0,371,371,null,0,0,8761
+1673924761230,8421,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-381,text,false,,80,0,370,370,null,0,0,8421
+1673924761504,8147,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-653,text,false,,80,0,370,370,null,0,0,8147
+1673924761513,8138,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-604,text,false,,80,0,370,370,null,0,0,8138
+1673924761306,8345,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-457,text,false,,80,0,370,370,null,0,0,8345
+1673924761722,7930,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-872,text,false,,80,0,370,370,null,0,0,7930
+1673924761578,8074,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-727,text,false,,36,0,369,369,null,0,0,8074
+1673924761623,8029,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-773,text,false,,36,0,368,368,null,0,0,8029
+1673924761150,8502,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-301,text,false,,36,0,363,363,null,0,0,8502
+1673924761535,8117,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-675,text,false,,80,0,362,362,null,0,0,8117
+1673924760891,8760,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-43,text,false,,80,0,362,362,null,0,0,8760
+1673924761110,8542,Select Statement,200,OK,RDCD 1-261,text,true,,134,0,362,362,null,8542,0,8505
+1673924761056,8596,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-207,text,false,,80,0,362,362,null,0,0,8596
+1673924761287,8365,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-437,text,false,,80,0,362,362,null,0,0,8365
+1673924761155,8498,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-306,text,false,,80,0,357,357,null,0,0,8498
+1673924761163,8490,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-314,text,false,,80,0,357,357,null,0,0,8490
+1673924761513,8140,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-603,text,false,,80,0,355,355,null,0,0,8140
+1673924761720,7933,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-855,text,false,,80,0,355,355,null,0,0,7933
+1673924761454,8199,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-586,text,false,,36,0,355,355,null,0,0,8199
+1673924761179,8474,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-329,text,false,,80,0,352,352,null,0,0,8474
+1673924761253,8401,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-405,text,false,,80,0,351,351,null,0,0,8401
+1673924761240,8414,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-391,text,false,,36,0,351,351,null,0,0,8414
+1673924761509,8146,Select Statement,200,OK,RDCD 1-661,text,true,,134,0,349,349,null,8146,0,7803
+1673924761041,8615,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-192,text,false,,80,0,348,348,null,0,0,8615
+1673924761083,8574,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-234,text,false,,80,0,347,347,null,0,0,8574
+1673924761071,8586,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-221,text,false,,36,0,347,347,null,0,0,8586
+1673924761013,8644,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-165,text,false,,80,0,346,346,null,0,0,8644
+1673924761583,8074,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-722,text,false,,80,0,345,345,null,0,0,8074
+1673924761276,8381,Select Statement,200,OK,RDCD 1-428,text,true,,134,0,345,345,null,8381,0,8352
+1673924761312,8345,Select Statement,200,OK,RDCD 1-463,text,true,,134,0,344,344,null,8345,0,8317
+1673924761986,7672,Select Statement,200,OK,RDCD 1-962,text,true,,134,0,343,343,null,7672,0,7638
+1673924761720,7938,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-854,text,false,,80,0,343,343,null,0,0,7938
+1673924761729,7930,Select Statement,200,OK,RDCD 1-880,text,true,,134,0,339,339,null,7930,0,7900
+1673924761816,7843,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-916,text,false,,36,0,338,338,null,0,0,7843
+1673924761738,7922,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-825,text,false,,36,0,337,337,null,0,0,7922
+1673924761432,8228,Select Statement,200,OK,RDCD 1-581,text,true,,134,0,336,336,null,8228,0,8191
+1673924761652,8021,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-795,text,false,,36,0,335,335,null,0,0,8021
+1673924761492,8181,Select Statement,200,OK,RDCD 1-621,text,true,,134,0,335,335,null,8181,0,8143
+1673924761578,8095,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-724,text,false,,36,0,335,335,null,0,0,8095
+1673924761272,8402,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-424,text,false,,36,0,332,332,null,0,0,8402
+1673924761737,7937,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-885,text,false,,36,0,331,331,null,0,0,7937
+1673924761736,7939,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-881,text,false,,36,0,330,330,null,0,0,7939
+1673924761063,8613,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-213,text,false,,36,0,329,329,null,0,0,8613
+1673924761523,8153,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-606,text,false,,36,0,329,329,null,0,0,8153
+1673924761523,8153,Select Statement,200,OK,RDCD 1-610,text,true,,134,0,329,329,null,8153,0,8118
+1673924761412,8264,Select Statement,200,OK,RDCD 1-510,text,true,,134,0,327,327,null,8264,0,8228
+1673924760865,8825,Select Statement,200,OK,RDCD 1-17,text,true,,134,0,325,325,null,8825,0,8778
+1673924761077,8614,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-228,text,false,,36,0,325,325,null,0,0,8614
+1673924760930,8762,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-80,text,false,,36,0,323,323,null,0,0,8762
+1673924761619,8073,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-770,text,false,,36,0,322,322,null,0,0,8073
+1673924761739,7953,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-889,text,false,,36,0,322,322,null,0,0,7953
+1673924761284,8409,Select Statement,200,OK,RDCD 1-435,text,true,,134,0,321,321,null,8408,0,7668
+1673924760892,8800,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-44,text,false,,36,0,320,320,null,0,0,8800
+1673924760907,8788,Select Statement,200,OK,RDCD 1-59,text,true,,134,0,319,319,null,8788,0,8753
+1673924761082,8622,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-233,text,false,,36,0,317,317,null,0,0,8622
+1673924761748,7960,Select Statement,200,OK,RDCD 1-802,text,true,,134,0,316,316,null,7960,0,7912
+1673924761652,8061,Select Statement,200,OK,RDCD 1-788,text,true,,134,0,315,315,null,8061,0,8009
+1673924761743,7978,Select Statement,200,OK,RDCD 1-839,text,true,,134,0,314,314,null,7977,0,7930
+1673924761675,8046,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-819,text,false,,36,0,314,314,null,0,0,8046
+1673924761245,8483,Select Statement,200,OK,RDCD 1-397,text,true,,134,0,312,312,null,8483,0,8429
+1673924761564,8164,Select Statement,200,OK,RDCD 1-674,text,true,,134,0,312,312,null,8164,0,8110
+1673924761023,8705,Select Statement,200,OK,RDCD 1-174,text,true,,134,0,312,312,null,8705,0,8655
+1673924761796,7932,Select Statement,200,OK,RDCD 1-921,text,true,,134,0,312,312,null,7932,0,7882
+1673924761432,8296,Select Statement,200,OK,RDCD 1-578,text,true,,134,0,312,312,null,8296,0,8244
+1673924761819,7910,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-940,text,false,,36,0,307,307,null,0,0,7910
+1673924761256,8479,Select Statement,200,OK,RDCD 1-408,text,true,,134,0,306,306,null,8479,0,8054
+1673924761743,7992,Select Statement,200,OK,RDCD 1-884,text,true,,134,0,305,305,null,7992,0,7182
+1673924760896,8850,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-49,text,false,,36,0,304,304,null,0,0,8850
+1673924761192,8555,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-342,text,false,,36,0,304,304,null,0,0,8555
+1673924760875,8871,Select Statement,200,OK,RDCD 1-27,text,true,,134,0,304,304,null,8871,0,8815
+1673924761512,8235,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-612,text,false,,36,0,301,301,null,0,0,8235
+1673924761491,8256,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-634,text,false,,36,0,301,301,null,0,0,8256
+1673924761269,8478,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-421,text,false,,36,0,299,299,null,0,0,8478
+1673924761535,8212,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-676,text,false,,36,0,299,299,null,0,0,8212
+1673924761532,8215,Select Statement,200,OK,RDCD 1-655,text,true,,134,0,299,299,null,8215,0,8164
+1673924761140,8608,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-290,text,false,,36,0,296,296,null,0,0,8608
+1673924761842,7906,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-992,text,false,,36,0,295,295,null,0,0,7906
+1673924761075,8686,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-226,text,false,,36,0,294,294,null,0,0,8686
+1673924761815,7946,Select Statement,200,OK,RDCD 1-903,text,true,,134,0,294,294,null,7946,0,7899
+1673924760887,8873,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-39,text,false,,36,0,294,294,null,0,0,8873
+1673924761183,8579,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-334,text,false,,36,0,291,291,null,0,0,8579
+1673924761843,7923,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-926,text,false,,36,0,290,290,null,0,0,7923
+1673924760893,8883,Select Statement,200,OK,RDCD 1-45,text,true,,134,0,289,289,null,8883,0,8853
+1673924761597,8180,Select Statement,200,OK,RDCD 1-589,text,true,,134,0,288,288,null,8180,0,8150
+1673924761297,8480,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-447,text,false,,36,0,287,287,null,0,0,8480
+1673924761281,8496,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-433,text,false,,36,0,286,286,null,0,0,8496
+1673924761166,8612,Select Statement,200,OK,RDCD 1-316,text,true,,134,0,285,285,null,8612,0,8581
+1673924761188,8590,Select Statement,200,OK,RDCD 1-339,text,true,,134,0,285,285,null,8590,0,8560
+1673924761984,7802,Select Statement,200,OK,RDCD 1-977,text,true,,134,0,283,283,null,7802,0,6023
+1673924760870,8934,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-22,text,false,,36,0,282,282,null,0,0,8934
+1673924760877,8927,Select Statement,200,OK,RDCD 1-30,text,true,,134,0,282,282,null,8927,0,8888
+1673924760918,8887,Select Statement,200,OK,RDCD 1-69,text,true,,134,0,282,282,null,8887,0,8848
+1673924761488,8317,Select Statement,200,OK,RDCD 1-638,text,true,,134,0,281,281,null,8317,0,8278
+1673924761280,8525,Select Statement,200,OK,RDCD 1-432,text,true,,134,0,279,279,null,8525,0,8486
+1673924761199,8607,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-350,text,false,,36,0,277,277,null,0,0,8607
+1673924761144,8662,Select Statement,200,OK,RDCD 1-295,text,true,,134,0,277,277,null,8662,0,8633
+1673924761402,8404,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-530,text,false,,36,0,277,277,null,0,0,8404
+1673924761815,7992,Select Statement,200,OK,RDCD 1-904,text,true,,134,0,275,275,null,7991,0,7961
+1673924760876,8930,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-28,text,false,,36,0,275,275,null,0,0,8930
+1673924761652,8155,Select Statement,200,OK,RDCD 1-779,text,true,,134,0,272,272,null,8155,0,8125
+1673924761250,8558,Select Statement,200,OK,RDCD 1-401,text,true,,134,0,271,271,null,8558,0,8071
+1673924761639,8169,Select Statement,200,OK,RDCD 1-764,text,true,,134,0,270,270,null,8169,0,7676
+1673924761796,8013,Select Statement,200,OK,RDCD 1-922,text,true,,134,0,269,269,null,8013,0,7524
+1673924761639,8172,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-763,text,false,,36,0,268,268,null,0,0,8172
+1673924761492,8319,Select Statement,200,OK,RDCD 1-628,text,true,,134,0,267,267,null,8319,0,8301
+1673924761514,8298,Select Statement,200,OK,RDCD 1-588,text,true,,134,0,266,266,null,8298,0,8279
+1673924761820,7992,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-955,text,false,,36,0,265,265,null,0,0,7992
+1673924761712,8101,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-860,text,false,,36,0,264,264,null,0,0,8101
+1673924761851,7966,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-937,text,false,,36,0,263,263,null,0,0,7966
+1673924760883,8934,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-35,text,false,,36,0,262,262,null,0,0,8934
+1673924761121,8698,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-272,text,false,,36,0,261,261,null,0,0,8698
+1673924761535,8284,Select Statement,200,OK,RDCD 1-679,text,true,,134,0,260,260,null,8284,0,8270
+1673924761568,8253,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-706,text,false,,36,0,259,259,null,0,0,8253
+1673924761737,8084,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-886,text,false,,36,0,258,258,null,0,0,8084
+1673924761776,8046,Select Statement,200,OK,RDCD 1-913,text,true,,134,0,257,257,null,8046,0,8026
+1673924761162,8661,Select Statement,200,OK,RDCD 1-313,text,true,,134,0,256,256,null,8661,0,8643
+1673924761740,8083,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-814,text,false,,36,0,256,256,null,0,0,8083
+1673924761652,8172,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-803,text,false,,36,0,254,254,null,0,0,8172
+1673924761292,8533,Select Statement,200,OK,RDCD 1-443,text,true,,134,0,253,253,null,8533,0,8513
+1673924760929,8899,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-79,text,false,,36,0,252,252,null,0,0,8899
+1673924761402,8426,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-529,text,false,,36,0,252,252,null,0,0,8426
+1673924761987,7842,Select Statement,200,OK,RDCD 1-950,text,true,,134,0,250,250,null,7842,0,7820
+1673924761300,8533,Select Statement,200,OK,RDCD 1-452,text,true,,134,0,249,249,null,8533,0,8505
+1673924761753,8080,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-798,text,false,,36,0,249,249,null,0,0,8080
+1673924761818,8016,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-928,text,false,,36,0,247,247,null,0,0,8016
+1673924761820,8015,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-960,text,false,,36,0,246,246,null,0,0,8015
+1673924761020,8815,Select Statement,200,OK,RDCD 1-172,text,true,,134,0,245,245,null,8815,0,8797
+1673924761225,8610,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-377,text,false,,36,0,245,245,null,0,0,8610
+1673924761750,8085,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-801,text,false,,36,0,244,244,null,0,0,8085
+1673924761103,8733,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-254,text,false,,80,0,242,242,null,0,0,8733
+1673924761071,8780,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-222,text,false,,36,0,241,241,null,0,0,8780
+1673924760955,8896,Select Statement,200,OK,RDCD 1-106,text,true,,134,0,240,240,null,8896,0,8866
+1673924761717,8134,Select Statement,200,OK,RDCD 1-861,text,true,,134,0,240,240,null,8134,0,8105
+1673924761716,8135,Select Statement,200,OK,RDCD 1-725,text,true,,134,0,239,239,null,8135,0,8107
+1673924761492,8361,Select Statement,200,OK,RDCD 1-622,text,true,,134,0,237,237,null,8361,0,8330
+1673924761094,8759,Select Statement,200,OK,RDCD 1-245,text,true,,134,0,237,237,null,8759,0,8727
+1673924761520,8333,Select Statement,200,OK,RDCD 1-580,text,true,,134,0,236,236,null,8333,0,8305
+1673924761189,8664,Select Statement,200,OK,RDCD 1-340,text,true,,134,0,236,236,null,8664,0,8640
+1673924760990,8863,Select Statement,200,OK,RDCD 1-141,text,true,,134,0,234,234,null,8863,0,8838
+1673924760872,8985,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-23,text,false,,36,0,232,232,null,0,0,8985
+1673924761984,7877,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-981,text,false,,36,0,231,231,null,0,0,7877
+1673924761403,8458,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-518,text,false,,36,0,230,230,null,0,0,8458
+1673924761523,8346,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-613,text,false,,36,0,229,229,null,0,0,8346
+1673924761488,8382,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-637,text,false,,36,0,228,228,null,0,0,8382
+1673924761288,8585,Select Statement,200,OK,RDCD 1-439,text,true,,134,0,227,227,null,8585,0,8565
+1673924761525,8350,Select Statement,200,OK,RDCD 1-564,text,true,,134,0,226,226,null,8350,0,8329
+1673924761821,8068,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-963,text,false,,36,0,225,225,null,0,0,8068
+1673924761036,8866,Select Statement,200,OK,RDCD 1-189,text,true,,134,0,224,224,null,8866,0,8833
+1673924761413,8489,Select Statement,200,OK,RDCD 1-561,text,true,,134,0,224,224,null,8489,0,8456
+1673924761414,8493,Select Statement,200,OK,RDCD 1-565,text,true,,134,0,222,222,null,8493,0,7899
+1673924760905,9003,Select Statement,200,OK,RDCD 1-56,text,true,,134,0,221,221,null,9003,0,8984
+1673924761850,8062,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-933,text,false,,36,0,220,220,null,0,0,8062
+1673924761491,8421,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-633,text,false,,36,0,219,219,null,0,0,8421
+1673924761047,8866,Select Statement,200,OK,RDCD 1-195,text,true,,134,0,218,218,null,8865,0,8859
+1673924760960,8953,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-112,text,false,,36,0,217,217,null,0,0,8953
+1673924761823,8090,Select Statement,200,OK,RDCD 1-976,text,true,,134,0,216,216,null,8090,0,8084
+1673924761847,8067,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-996,text,false,,36,0,215,215,null,0,0,8067
+1673924761841,8073,Select Statement,200,OK,RDCD 1-991,text,true,,134,0,214,214,null,8073,0,8066
+1673924761639,8275,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-767,text,false,,36,0,213,213,null,0,0,8275
+1673924761616,8299,Select Statement,200,OK,RDCD 1-740,text,true,,134,0,212,212,null,8299,0,8291
+1673924761819,8096,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-944,text,false,,36,0,211,211,null,0,0,8096
+1673924761273,8642,Select Statement,200,OK,RDCD 1-425,text,true,,134,0,210,210,null,8642,0,8634
+1673924761740,8176,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-817,text,false,,36,0,209,209,null,0,0,8176
+1673924760987,8929,Select Statement,200,OK,RDCD 1-138,text,true,,134,0,208,208,null,8929,0,8921
+1673924761397,8519,Select Statement,200,OK,RDCD 1-541,text,true,,134,0,207,207,null,8519,0,6555
+1673924761016,8901,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-168,text,false,,36,0,206,206,null,0,0,8901
+1673924761032,8885,Select Statement,200,OK,RDCD 1-185,text,true,,134,0,205,205,null,8885,0,6698
+1673924761813,8107,Select Statement,200,OK,RDCD 1-892,text,true,,134,0,204,204,null,8107,0,8101
+1673924761776,8144,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-917,text,false,,36,0,203,203,null,0,0,8144
+1673924761200,8728,Select Statement,200,OK,RDCD 1-351,text,true,,134,0,202,202,null,8728,0,8715
+1673924761721,8207,Select Statement,200,OK,RDCD 1-851,text,true,,134,0,202,202,null,8207,0,8193
+1673924761268,8660,Select Statement,200,OK,RDCD 1-419,text,true,,134,0,202,202,null,8660,0,8646
+1673924761743,8185,Select Statement,200,OK,RDCD 1-836,text,true,,134,0,202,202,null,8185,0,8171
+1673924761706,8222,Select Statement,200,OK,RDCD 1-736,text,true,,134,0,202,202,null,8222,0,8208
+1673924761097,8832,Select Statement,200,OK,RDCD 1-248,text,true,,134,0,197,197,null,8832,0,8818
+1673924760923,9006,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-74,text,false,,36,0,196,196,null,0,0,9006
+1673924761331,8598,Select Statement,200,OK,RDCD 1-480,text,true,,134,0,195,195,null,8598,0,8590
+1673924761537,8395,Select Statement,200,OK,RDCD 1-688,text,true,,134,0,194,194,null,8395,0,8393
+1673924760867,9065,Select Statement,200,OK,RDCD 1-18,text,true,,134,0,193,193,null,9065,0,9063
+1673924760979,8956,Select Statement,200,OK,RDCD 1-130,text,true,,134,0,192,192,null,8955,0,8953
+1673924761754,8186,Select Statement,200,OK,RDCD 1-894,text,true,,134,0,191,191,null,8186,0,8179
+1673924761291,8649,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-442,text,false,,36,0,191,191,null,0,0,8649
+1673924761416,8528,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-501,text,false,,36,0,189,189,null,0,0,8528
+1673924761150,8794,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-300,text,false,,36,0,188,188,null,0,0,8794
+1673924761516,8429,Select Statement,200,OK,RDCD 1-647,text,true,,134,0,187,187,null,8429,0,8426
+1673924761224,8723,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-376,text,false,,36,0,186,186,null,0,0,8723
+1673924761526,8436,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-563,text,false,,36,0,185,185,null,0,0,8436
+1673924761575,8389,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-723,text,false,,36,0,184,184,null,0,0,8389
+1673924760858,9105,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-6,text,false,,36,0,183,183,null,0,0,9105
+1673924761510,8455,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-611,text,false,,36,0,182,182,null,0,0,8454
+1673924761412,8554,Select Statement,200,OK,RDCD 1-513,text,true,,134,0,181,181,null,8553,0,8551
+1673924761157,8814,Select Statement,200,OK,RDCD 1-308,text,true,,134,0,180,180,null,8814,0,8809
+1673924761063,8908,Select Statement,200,OK,RDCD 1-214,text,true,,134,0,180,180,null,8908,0,8903
+1673924761771,8200,Select Statement,200,OK,RDCD 1-910,text,true,,134,0,180,180,null,8200,0,8195
+1673924761868,8110,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-942,text,false,,36,0,177,177,null,0,0,8110
+1673924761721,8259,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-867,text,false,,36,0,176,176,null,0,0,8259
+1673924761563,8417,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-598,text,false,,36,0,175,175,null,0,0,8417
+1673924761575,8406,Select Statement,200,OK,RDCD 1-719,text,true,,134,0,174,174,null,8406,0,8403
+1673924761049,8932,Select Statement,200,OK,RDCD 1-196,text,true,,134,0,173,173,null,8932,0,8929
+1673924760861,9121,Select Statement,200,OK,RDCD 1-12,text,true,,134,0,172,172,null,9121,0,9118
+1673924761041,8942,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-193,text,false,,36,0,171,171,null,0,0,8942
+1673924761411,8573,Select Statement,200,OK,RDCD 1-556,text,true,,134,0,170,170,null,8573,0,8570
+1673924761652,8332,Select Statement,200,OK,RDCD 1-800,text,true,,134,0,169,169,null,8332,0,8328
+1673924761264,8722,Select Statement,200,OK,RDCD 1-416,text,true,,134,0,168,168,null,8722,0,8720
+1673924761774,8269,Select Statement,200,OK,RDCD 1-909,text,true,,134,0,167,167,null,8268,0,6768
+1673924761403,8656,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-514,text,false,,36,0,166,166,null,0,0,8656
+1673924761739,8320,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-890,text,false,,36,0,166,166,null,0,0,8320
+1673924761520,8539,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-584,text,false,,36,0,165,165,null,0,0,8539
+1673924761283,8783,Select Statement,200,OK,RDCD 1-434,text,true,,134,0,163,163,null,8783,0,8781
+1673924760980,9089,Select Statement,200,OK,RDCD 1-132,text,true,,134,0,162,162,null,9089,0,9086
+1673924760897,9173,Select Statement,200,OK,RDCD 1-50,text,true,,134,0,161,161,null,9173,0,9170
+1673924761533,8544,Select Statement,200,OK,RDCD 1-663,text,true,,134,0,160,160,null,8544,0,8542
+1673924761120,8981,Select Statement,200,OK,RDCD 1-271,text,true,,134,0,159,159,null,8981,0,8978
+1673924761717,8388,Select Statement,200,OK,RDCD 1-865,text,true,,134,0,158,158,null,8388,0,8386
+1673924761528,8584,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-648,text,false,,36,0,157,157,null,0,0,8584
+1673924760894,9232,Select Statement,200,OK,RDCD 1-46,text,true,,134,0,156,156,null,9231,0,9224
+1673924761269,8863,Select Statement,200,OK,RDCD 1-420,text,true,,134,0,155,155,null,8863,0,8860
+1673924761491,8722,Select Statement,200,OK,RDCD 1-643,text,true,,134,0,154,154,null,8722,0,8718
+1673924761503,8720,Select Statement,200,OK,RDCD 1-619,text,true,,134,0,153,153,null,8720,0,8717
+1673924760862,9383,Select Statement,200,OK,RDCD 1-15,text,true,,134,0,152,152,null,9383,0,9380
+1673924760946,9303,Select Statement,200,OK,RDCD 1-97,text,true,,134,0,151,151,null,9303,0,9300
+1673924761266,8998,Select Statement,200,OK,RDCD 1-418,text,true,,134,0,150,150,null,8998,0,8995
+1673924761820,8449,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-952,text,false,,36,0,149,149,null,0,0,8449
+1673924761640,8657,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-772,text,false,,80,0,148,148,null,0,0,8657
+1673924761861,8436,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-1000,text,false,,80,0,147,147,null,0,0,8436
+1673924761652,8645,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-783,text,false,,80,0,147,147,null,0,0,8645
+1673924761666,8631,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-816,text,false,,80,0,147,147,null,0,0,8631
+1673924761651,8647,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-780,text,false,,80,0,144,144,null,0,0,8647
+1673924761325,8973,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-464,text,false,,36,0,144,144,null,0,0,8973
+1673924761514,8786,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-600,text,false,,36,0,142,142,null,0,0,8786
+1673924761817,8489,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-920,text,false,,80,0,141,141,null,0,0,8489
+1673924761649,8659,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-737,text,false,,80,0,140,140,null,0,0,8659
+1673924761597,8712,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-559,text,false,,36,0,139,139,null,0,0,8712
+1673924761002,9317,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-153,text,false,,36,0,138,138,null,0,0,9317
+1673924761492,8845,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-630,text,false,,36,0,137,137,null,0,0,8845
+1673924761206,9133,Select Statement,200,OK,RDCD 1-357,text,true,,134,0,136,136,null,9133,0,9126
+1673924761514,8832,Select Statement,200,OK,RDCD 1-596,text,true,,134,0,135,135,null,8832,0,8828
+1673924761821,8525,Select Statement,200,OK,RDCD 1-967,text,true,,134,0,135,135,null,8525,0,8522
+1673924761679,8687,Select Statement,200,OK,RDCD 1-828,text,true,,134,0,133,133,null,8687,0,8684
+1673924761248,9118,Select Statement,200,OK,RDCD 1-400,text,true,,134,0,132,132,null,9118,0,9115
+1673924760967,9399,Select Statement,200,OK,RDCD 1-118,text,true,,134,0,131,131,null,9399,0,9396
+1673924761492,8889,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-624,text,false,,36,0,130,130,null,0,0,8889
+1673924761666,8715,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-808,text,false,,36,0,130,130,null,0,0,8715
+1673924761342,9039,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-477,text,false,,36,0,129,129,null,0,0,9039
+1673924761492,8890,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-627,text,false,,36,0,127,127,null,0,0,8890
+1673924761053,9335,Select Statement,200,OK,RDCD 1-203,text,true,,134,0,126,126,null,9335,0,9332
+1673924761310,9102,Select Statement,200,OK,RDCD 1-459,text,true,,134,0,125,125,null,9102,0,9099
+1673924761535,8900,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-671,text,false,,36,0,124,124,null,0,0,8900
+1673924760975,9473,Select Statement,200,OK,RDCD 1-126,text,true,,134,0,123,123,null,9473,0,9471
+1673924761532,8955,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-651,text,false,,36,0,122,122,null,0,0,8955
+1673924761113,9445,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-264,text,false,,36,0,121,121,null,0,0,9445
+1673924761734,8835,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-838,text,false,,80,0,120,120,null,0,0,8835
+1673924761609,8962,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-758,text,false,,80,0,119,119,null,0,0,8962
+1673924761614,8965,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-765,text,false,,80,0,118,118,null,0,0,8965
+1673924761986,8593,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-961,text,false,,80,0,118,118,null,0,0,8593
+1673924761986,8593,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-954,text,false,,80,0,118,118,null,0,0,8593
+1673924761986,8593,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-957,text,false,,80,0,117,117,null,0,0,8593
+1673924761608,8971,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-750,text,false,,80,0,117,117,null,0,0,8971
+1673924761618,8965,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-769,text,false,,80,0,113,113,null,0,0,8965
+1673924761608,8980,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-753,text,false,,80,0,112,112,null,0,0,8980
+1673924761152,9437,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-303,text,false,,36,0,111,111,null,0,0,9437
+1673924761640,8949,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-775,text,false,,36,0,110,110,null,0,0,8949
+1673924761166,9424,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-317,text,false,,36,0,109,109,null,0,0,9424
+1673924761411,9182,Select Statement,200,OK,RDCD 1-512,text,true,,134,0,108,108,null,9182,0,9179
+1673924761024,9572,Select Statement,200,OK,RDCD 1-175,text,true,,134,0,107,107,null,9572,0,9569
+1673924761610,9027,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-762,text,false,,36,0,106,106,null,0,0,9027
+1673924761569,9069,Select Statement,200,OK,RDCD 1-717,text,true,,134,0,105,105,null,9069,0,9067
+1673924760942,9697,Select Statement,200,OK,RDCD 1-93,text,true,,134,0,104,104,null,9697,0,9694
+1673924761099,9541,Select Statement,200,OK,RDCD 1-249,text,true,,134,0,103,103,null,9541,0,9539
+1673924761611,9036,Select Statement,200,OK,RDCD 1-747,text,true,,134,0,102,102,null,9036,0,9033
+1673924760858,9790,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-2,text,false,,36,0,101,101,null,0,0,9790
+1673924761717,9040,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-862,text,false,,36,0,100,100,null,0,0,9040
+1673924761523,9269,Select Statement,200,OK,RDCD 1-601,text,true,,134,0,99,99,null,9269,0,9265
+1673924760983,9860,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-134,text,false,,36,0,98,98,null,0,0,9860
+1673924760985,9863,Select Statement,200,OK,RDCD 1-137,text,true,,134,0,97,97,null,9863,0,9860
+1673924761743,9125,Select Statement,200,OK,RDCD 1-809,text,true,,134,0,96,96,null,9125,0,9122
+1673924761232,9636,Select Statement,200,OK,RDCD 1-384,text,true,,134,0,95,95,null,9636,0,9633
+1673924761096,9778,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-247,text,false,,36,0,94,94,null,0,0,9778
+1673924761309,9644,Select Statement,200,OK,RDCD 1-460,text,true,,134,0,93,93,null,9644,0,9641
+1673924761034,9999,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-187,text,false,,36,0,92,92,null,0,0,9999
+1673924761067,9968,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-218,text,false,,80,0,91,91,null,0,0,9968
+1673924761204,9842,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-356,text,false,,80,0,90,90,null,0,0,9842
+1673924761235,9811,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-387,text,false,,80,0,90,90,null,0,0,9811
+1673924760860,10186,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-11,text,false,,80,0,90,90,null,0,0,10186
+1673924761176,9871,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-327,text,false,,80,0,87,87,null,0,0,9871
+1673924761213,9835,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-364,text,false,,80,0,86,86,null,0,0,9835
+1673924761403,9645,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-517,text,false,,80,0,85,85,null,0,0,9645
+1673924761416,9632,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-498,text,false,,80,0,85,85,null,0,0,9632
+1673924761561,9507,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-699,text,false,,36,0,83,83,null,0,0,9507
+1673924761736,9332,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-878,text,false,,80,0,83,83,null,0,0,9332
+1673924761738,9331,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-826,text,false,,80,0,82,82,null,0,0,9331
+1673924761223,9853,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-375,text,false,,36,0,80,80,null,0,0,9853
+1673924761076,10000,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-227,text,false,,36,0,80,80,null,0,0,10000
+1673924761066,10012,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-217,text,false,,36,0,78,78,null,0,0,10012
+1673924761415,9669,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-566,text,false,,36,0,77,77,null,0,0,9669
+1673924761565,9523,Select Statement,200,OK,RDCD 1-682,text,true,,134,0,76,76,null,9523,0,9521
+1673924761026,10062,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-178,text,false,,36,0,76,76,null,0,0,10062
+1673924761416,9717,Select Statement,200,OK,RDCD 1-494,text,true,,134,0,74,74,null,9717,0,9714
+1673924761156,10055,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-307,text,false,,36,0,73,73,null,0,0,10055
+1673924761084,10211,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-235,text,false,,80,0,72,72,null,0,0,10211
+1673924761261,10034,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-413,text,false,,80,0,72,72,null,0,0,10034
+1673924761228,10108,Select Statement,200,OK,RDCD 1-380,text,true,,134,0,70,70,null,10108,0,10105
+1673924761410,9933,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-515,text,false,,36,0,69,69,null,0,0,9933
+1673924761119,10231,Select Statement,200,OK,RDCD 1-270,text,true,,134,0,68,68,null,10231,0,10229
+1673924760943,10413,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-94,text,false,,36,0,67,67,null,0,0,10413
+1673924761734,9625,Select Statement,200,OK,RDCD 1-842,text,true,,134,0,66,66,null,9625,0,9622
+1673924761402,9957,Select Statement,200,OK,RDCD 1-526,text,true,,134,0,65,65,null,9957,0,9955
+1673924761729,9646,Select Statement,200,OK,RDCD 1-879,text,true,,134,0,64,64,null,9646,0,9631
+1673924760922,10652,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-72,text,false,,36,0,63,63,null,0,0,10652
+1673924761514,10061,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-592,text,false,,80,0,62,62,null,0,0,10061
+1673924761755,9854,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-902,text,false,,36,0,61,61,null,0,0,9854
+1673924761159,10450,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-310,text,false,,36,0,60,60,null,0,0,10450
+1673924761735,9881,Select Statement,200,OK,RDCD 1-874,text,true,,134,0,59,59,null,9881,0,9873
+1673924760887,10776,Select Statement,200,OK,RDCD 1-38,text,true,,134,0,58,58,null,10776,0,10760
+1673924761402,10266,Select Statement,200,OK,RDCD 1-533,text,true,,134,0,57,57,null,10266,0,10258
+1673924761503,10172,Select Statement,200,OK,RDCD 1-644,text,true,,134,0,56,56,null,10172,0,10157
+1673924761193,10486,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-344,text,false,,36,0,55,55,null,0,0,10486
+1673924761709,9979,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-730,text,false,,36,0,54,54,null,0,0,9979
+1673924761629,10072,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-778,text,false,,36,0,53,53,null,0,0,10072
+1673924760950,10759,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-101,text,false,,36,0,52,52,null,0,0,10759
+1673924761523,10200,Select Statement,200,OK,RDCD 1-605,text,true,,134,0,51,51,null,10200,0,10178
+1673924761049,10674,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-200,text,false,,36,0,51,51,null,0,0,10674
+1673924760877,10845,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-29,text,false,,36,0,51,51,null,0,0,10845
+1673924761574,10157,Select Statement,200,OK,RDCD 1-712,text,true,,134,0,48,48,null,10157,0,10151
+1673924761635,10097,Select Statement,200,OK,RDCD 1-786,text,true,,134,0,47,47,null,10097,0,10091
+1673924761074,10662,Select Statement,200,OK,RDCD 1-225,text,true,,134,0,46,46,null,10662,0,10652
+1673924760858,10877,Select Statement,200,OK,RDCD 1-3,text,true,,134,0,46,46,null,10877,0,10867
+1673924761721,10015,Select Statement,200,OK,RDCD 1-868,text,true,,134,0,46,46,null,10015,0,10005
+1673924760911,10826,Select Statement,200,OK,RDCD 1-62,text,true,,134,0,43,43,null,10826,0,10821
+1673924761179,10559,Select Statement,200,OK,RDCD 1-330,text,true,,134,0,42,42,null,10559,0,10554
+1673924761207,10531,Select Statement,200,OK,RDCD 1-358,text,true,,134,0,42,42,null,10531,0,10525
+1673924761718,10021,Select Statement,200,OK,RDCD 1-857,text,true,,134,0,40,40,null,10021,0,10018
+1673924761513,10226,Select Statement,200,OK,RDCD 1-608,text,true,,134,0,40,40,null,10226,0,10224
+1673924761629,10111,Select Statement,200,OK,RDCD 1-781,text,true,,134,0,38,38,null,10111,0,10108
+1673924761007,10735,Select Statement,200,OK,RDCD 1-159,text,true,,134,0,37,37,null,10735,0,10732
+1673924761652,10150,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-784,text,false,,80,0,36,36,null,0,0,10150
+1673924761868,9948,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-941,text,false,,80,0,35,35,null,0,0,9948
+1673924761607,10211,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-756,text,false,,80,0,34,34,null,0,0,10211
+1673924761721,10194,Select Statement,200,OK,RDCD 1-850,text,true,,134,0,33,33,null,10194,0,10191
+1673924760858,11059,Select Statement,200,OK,RDCD 1-4,text,true,,134,0,32,32,null,11059,0,11057
+1673924761119,10805,Select Statement,200,OK,RDCD 1-269,text,true,,134,0,31,31,null,10805,0,10802
+1673924761293,10631,Select Statement,200,OK,RDCD 1-444,text,true,,134,0,31,31,null,10631,0,10628
+1673924761610,10449,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-761,text,false,,80,0,29,29,null,0,0,10449
+1673924761236,10823,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-388,text,false,,80,0,29,29,null,0,0,10823
+1673924761609,10451,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-754,text,false,,80,0,27,27,null,0,0,10451
+1673924761742,10319,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-893,text,false,,80,0,26,26,null,0,0,10319
+1673924761817,10247,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-919,text,false,,80,0,25,25,null,0,0,10246
+1673924761024,11114,Select Statement,200,OK,RDCD 1-176,text,true,,134,0,24,24,null,11114,0,11109
+1673924760906,11235,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-58,text,false,,36,0,23,23,null,0,0,11235
+1673924760892,11250,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-41,text,false,,36,0,22,22,null,0,0,11250
+1673924760947,11206,Select Statement,200,OK,RDCD 1-98,text,true,,134,0,21,21,null,11206,0,11204
+1673924761112,11045,Select Statement,null 0,java.sql.SQLException: Error preloading the connection pool,RDCD 1-263,text,false,,36,0,20,20,null,0,0,11045
+1673924761710,10447,Select Statement,200,OK,RDCD 1-729,text,true,,134,0,19,19,null,10447,0,10444
+1673924761987,10170,Select Statement,200,OK,RDCD 1-946,text,true,,134,0,18,18,null,10170,0,10167
+1673924761085,11085,Select Statement,200,OK,RDCD 1-236,text,true,,134,0,17,17,null,11084,0,11082
+1673924761717,10601,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-735,text,false,,80,0,16,16,null,0,0,10601
+1673924761675,10644,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-820,text,false,,80,0,15,15,null,0,0,10644
+1673924761309,11070,Select Statement,200,OK,RDCD 1-458,text,true,,134,0,14,14,null,11070,0,11067
+1673924760924,11456,Select Statement,200,OK,RDCD 1-75,text,true,,134,0,13,13,null,11456,0,11452
+1673924761601,10790,Select Statement,200,OK,RDCD 1-752,text,true,,134,0,12,12,null,10790,0,10787
+1673924761265,11303,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-417,text,false,,80,0,11,11,null,0,0,11303
+1673924761818,10751,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-935,text,false,,80,0,10,10,null,0,0,10751
+1673924761849,10720,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-930,text,false,,80,0,10,10,null,0,0,10720
+1673924761820,10749,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-959,text,false,,80,0,8,8,null,0,0,10749
+1673924761615,10954,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-766,text,false,,80,0,7,7,null,0,0,10954
+1673924761012,11610,Select Statement,200,OK,RDCD 1-164,text,true,,134,0,6,6,null,11609,0,11607
+1673924761055,11569,Select Statement,200,OK,RDCD 1-206,text,true,,134,0,5,5,null,11569,0,11566
+1673924761521,11126,Select Statement,200,OK,RDCD 1-576,text,true,,134,0,4,4,null,11126,0,11123
+1673924761688,11186,Select Statement,200,OK,RDCD 1-789,text,true,,134,0,3,3,null,11186,0,11183
+1673924761534,14889,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-668,text,false,,80,0,2,2,null,0,0,14889
+1673924761536,14887,Select Statement,null 0,"java.sql.SQLException: Cannot create PoolableConnectionFactory (FATAL: sorry, too many clients already)",RDCD 1-683,text,false,,80,0,2,2,null,0,0,14887
